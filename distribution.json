@@ -3937,9 +3937,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 35725,
+            "size": 39679,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "02998599c9c12293ea8da7c07ce81b75",
+            "MD5": "d2e478d2d7fe58fdeeafef805d8d3d2a",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
