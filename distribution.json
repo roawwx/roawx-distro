@@ -2776,16 +2776,6 @@
           }
         },
         {
-          "id": "net.lionarius:skinrestorer:2.4.3+1.20-fabric@jar",
-          "name": "SkinRestorer",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 190082,
-            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/skinrestorer-2.4.3+1.20-fabric.jar",
-            "MD5": "32f9c74c3bc245a3b519d022e9e986ec"
-          }
-        },
-        {
           "id": "net.mehvahdjukaar:smarterfarmers:1.20-2.1.0@jar",
           "name": "Smarter Farmers",
           "type": "FabricMod",
