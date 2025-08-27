@@ -1,16 +1,26 @@
 {
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
   "servers": [
     {
       "id": "roawx-1.20.1",
       "name": "roawx (Minecraft 1.20.1)",
       "description": "roawx Running Minecraft 1.20.1 (Fabric v0.17.2)",
-      "icon": "https://media.discordapp.net/attachments/1409713106518671412/1410305377865695353/LoadingSeal.png?ex=68b088bc&is=68af373c&hm=cc20fe7c493f0d8dd7576151c670fc2438539dcfd3add04c640de6bcf10feb1d&=&format=webp&quality=lossless&width=1006&height=1006",
+      "icon": null,
       "version": "1.0.0",
-      "address": "mc.mikersx6.live:25565",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
-      "mainServer": true,
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -20,7 +30,7 @@
           "artifact": {
             "size": 1915305,
             "MD5": "72dd698d701202d46303fc913cfcbf23",
-            "url": "https://roawx.ct.ws/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
           },
           "subModules": [
             {
@@ -30,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "f9fab8d22341eff0886239171e6a5867",
-                "url": "https://roawx.ct.ws/repo/versions/1.20.1-fabric-0.17.2/1.20.1-fabric-0.17.2.json"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/versions/1.20.1-fabric-0.17.2/1.20.1-fabric-0.17.2.json"
               }
             },
             {
@@ -40,7 +50,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://roawx.ct.ws/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -50,7 +60,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://roawx.ct.ws/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -60,7 +70,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://roawx.ct.ws/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -70,7 +80,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://roawx.ct.ws/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -80,7 +90,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://roawx.ct.ws/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -90,7 +100,7 @@
               "artifact": {
                 "size": 1504156,
                 "MD5": "aa4a43d5b0e9abf4fcb57520ffeb0019",
-                "url": "https://roawx.ct.ws/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
               }
             },
             {
@@ -100,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://roawx.ct.ws/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -111,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1440948,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/analog-1.2.2+1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/analog-1.2.2+1.20.1.jar",
             "MD5": "2e8d52596b4cff751deb8c928ef52503"
           }
         },
@@ -121,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1064362,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
             "MD5": "723370be246a876144ae424cbbfd60f4"
           }
         },
@@ -131,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 74585,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/armor-abilities-0.1.7.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/armor-abilities-0.1.7.jar",
             "MD5": "341727493dced948dec4b5218615fc28"
           }
         },
@@ -141,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 329376,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/Armor%20of%20the%20Ages-fabric-1.20.1-1.3.8.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/Armor%20of%20the%20Ages-fabric-1.20.1-1.3.8.jar",
             "MD5": "a4bc60e43c866ec5f48f5eca9945fba1"
           }
         },
@@ -151,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 445379,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/armorpointspp-fabric-1.20-3.1.2.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/armorpointspp-fabric-1.20-3.1.2.jar",
             "MD5": "1784ed065a6bb86aa1de7110ed97d4e2"
           }
         },
@@ -161,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 31306742,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/bingo-2.7.8+mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/bingo-2.7.8+mc1.20.1.jar",
             "MD5": "b02b65481abfbd7abae084dc6a1f7438"
           }
         },
@@ -171,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 78942,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/chat_heads-0.13.18-fabric-1.20.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/chat_heads-0.13.18-fabric-1.20.jar",
             "MD5": "b1ee1984c01e773104da605e94a6e474"
           }
         },
@@ -181,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 693624,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/comforts-fabric-6.4.0+1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/comforts-fabric-6.4.0+1.20.1.jar",
             "MD5": "681a5788b12195e5b2243947203c701e"
           }
         },
@@ -191,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2392617,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/coroutil-fabric-1.20.1-1.3.7.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/coroutil-fabric-1.20.1-1.3.7.jar",
             "MD5": "44365b7447c9b4c3aeadcadf454494aa"
           }
         },
@@ -201,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 24841934,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
             "MD5": "48de208df4154d2149101d351148569b"
           }
         },
@@ -211,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 76590,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/createproximity-1.1.0+1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/createproximity-1.1.0+1.20.1.jar",
             "MD5": "480e589c7539d5f25486a2531b67dc56"
           }
         },
@@ -221,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 229458,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
             "MD5": "dd8594f4f5d3ef444c0de9dbf6f6a51a"
           }
         },
@@ -231,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 196959,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar",
             "MD5": "1f30ec92141e767d28a04791580259f6"
           }
         },
@@ -241,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 470860,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/entityculling-fabric-1.8.2-mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/entityculling-fabric-1.8.2-mc1.20.1.jar",
             "MD5": "036b75a2cdd8d762ec6328146469a4ea"
           }
         },
@@ -251,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107873,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
             "MD5": "3483560775f416a4c759535b898165a5"
           }
         },
@@ -261,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7422276,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
             "MD5": "d1307b6cfb0e6eebc313857979ad063a"
           }
         },
@@ -271,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3620844,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.20.1.jar",
             "MD5": "ad785daf2e26435a7d3b2ad93d64ec2f"
           }
         },
@@ -281,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125197,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
           }
         },
@@ -291,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 397239,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
             "MD5": "7dd3394a0da1c3b768631d7c7ec47a30"
           }
         },
@@ -301,7 +311,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 242574,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
             "MD5": "351dca2ff05cbc00c9a32eb45976cb73"
           }
         },
@@ -311,7 +321,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 105382,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
             "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
           }
         },
@@ -321,7 +331,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -331,7 +341,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1398098,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.112.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.112.jar",
             "MD5": "8a84279275a4dd9a686bc6cfd5ee9c37"
           }
         },
@@ -341,7 +351,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 892067,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
           }
         },
@@ -351,7 +361,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1102879,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/lambdynamiclights-4.1.4+1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/lambdynamiclights-4.1.4+1.20.1.jar",
             "MD5": "738716ccda7c3c2a2aa2ca032c8bb6b5"
           }
         },
@@ -361,7 +371,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 523368,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/lavender-0.1.9+1.20.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/lavender-0.1.9+1.20.jar",
             "MD5": "cc6ece9d8d69bcd7c32ee6ff28825adb"
           }
         },
@@ -371,7 +381,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 706600,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
             "MD5": "de6d394cedf7e33bfd4b03209156211a"
           }
         },
@@ -381,7 +391,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 405450,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/LockAndBlock-0.9.0.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/LockAndBlock-0.9.0.jar",
             "MD5": "7eed3483774f6ad902795b4860d4d95d"
           }
         },
@@ -391,7 +401,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 23949294,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/mc-music-disc-dj-1.0.2-1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/mc-music-disc-dj-1.0.2-1.20.1.jar",
             "MD5": "e1210309941d4cb6ceee16b86d29b10e"
           }
         },
@@ -401,7 +411,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39696,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
           }
         },
@@ -411,7 +421,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
           }
         },
@@ -421,7 +431,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 533705,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/modernfix-fabric-5.24.4+mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/modernfix-fabric-5.24.4+mc1.20.1.jar",
             "MD5": "1f0c92268d97b8f2bd4998ae886246a5"
           }
         },
@@ -431,7 +441,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 721366,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
           }
         },
@@ -441,7 +451,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77943,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
             "MD5": "3138c776d370c90603938eb54d17469a"
           }
         },
@@ -451,7 +461,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 399214,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/Nullscape_1.20.x_v1.2.8.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/Nullscape_1.20.x_v1.2.8.jar",
             "MD5": "691a4526239d6b2b2525b40f209ec8a3"
           }
         },
@@ -461,7 +471,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 905421,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/owo-lib-0.11.2+1.20.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/owo-lib-0.11.2+1.20.jar",
             "MD5": "9150f588f732ae38c0320a17fa340626"
           }
         },
@@ -471,7 +481,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 190082,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/skinrestorer-2.4.3+1.20-fabric.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/skinrestorer-2.4.3+1.20-fabric.jar",
             "MD5": "32f9c74c3bc245a3b519d022e9e986ec"
           }
         },
@@ -481,7 +491,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 370701,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/sodium-extra-0.5.9+mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/sodium-extra-0.5.9+mc1.20.1.jar",
             "MD5": "cb941aa93cad7e9e238f56b6f75b1c10"
           }
         },
@@ -491,7 +501,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -501,7 +511,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 985791,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/sophisticatedbackpacks-1.20.1-3.23.4.4.105.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/sophisticatedbackpacks-1.20.1-3.23.4.4.105.jar",
             "MD5": "1c6cd9020a766700cae45c39b5d909cc"
           }
         },
@@ -511,7 +521,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2858437,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/sophisticatedcore-1.20.1-1.2.7.12.160.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/sophisticatedcore-1.20.1-1.2.7.12.160.jar",
             "MD5": "06ad1ff3289a32034158b095837162c6"
           }
         },
@@ -521,7 +531,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 203126,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/sound-physics-remastered-fabric-1.20.1-1.4.15.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/sound-physics-remastered-fabric-1.20.1-1.4.15.jar",
             "MD5": "fc959b9db4107f910802fb8732df3032"
           }
         },
@@ -531,7 +541,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 37324992,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/SpeechToSpell-0.2.1-1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/SpeechToSpell-0.2.1-1.20.1.jar",
             "MD5": "755bc807bcfef437c03dcc882df582be"
           }
         },
@@ -541,7 +551,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1537265,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/toms_storage_fabric-1.20-1.7.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/toms_storage_fabric-1.20-1.7.1.jar",
             "MD5": "6568605747a2290ece711a337fad6d52"
           }
         },
@@ -551,7 +561,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5504,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/voicechat-broadcast-fabric-1.1.0-1.20.1.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/voicechat-broadcast-fabric-1.1.0-1.20.1.jar",
             "MD5": "1a542ed9ab91d6956c68f947c57cbf13"
           }
         },
@@ -561,7 +571,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7981586,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.36.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.36.jar",
             "MD5": "7a7baf03f90fcf5c0531ca263a4f58db"
           }
         },
@@ -571,7 +581,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 789018,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/watut-fabric-1.20.1-1.2.3.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/watut-fabric-1.20.1-1.2.3.jar",
             "MD5": "3c3bafc1f68e028ebc6224cc68ecb99e"
           }
         },
@@ -581,7 +591,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 314034,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/wiretap-1.20.1-1.0.3.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/wiretap-1.20.1-1.0.3.jar",
             "MD5": "363e5e8b6b5bf6ece3b1f4c5639d6ac8"
           }
         },
@@ -591,7 +601,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1740608,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
             "MD5": "a1d4cdbd00c52ec548eb04c9b306bd4a"
           }
         },
@@ -601,7 +611,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 974400,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/XaerosWorldMap_1.39.12_Fabric_1.20.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/XaerosWorldMap_1.39.12_Fabric_1.20.jar",
             "MD5": "92a21afd0bfc76110ce4442c68d8f696"
           }
         },
@@ -611,7 +621,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7754269,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/xercamusic-fabric-1.20.1-1.0.2.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/xercamusic-fabric-1.20.1-1.0.2.jar",
             "MD5": "ad65da871a248ec960523574c9d3bd23"
           }
         },
@@ -621,7 +631,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1294234,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
             "MD5": "b6960b2defbf8cb1b983cffd261089ba"
           }
         },
@@ -631,7 +641,7 @@
           "type": "File",
           "artifact": {
             "size": 262,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/aabilitiesconfig.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/aabilitiesconfig.properties",
             "MD5": "f2067cccd6004b72a6d5b1e4ea867dce",
             "path": "config/aabilitiesconfig.properties"
           }
@@ -642,7 +652,7 @@
           "type": "File",
           "artifact": {
             "size": 591997,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/11.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/11.ogg",
             "MD5": "c3c42425d4d2122b1c90ca0947aedacf",
             "path": "config/analog/records/11.ogg"
           }
@@ -653,7 +663,7 @@
           "type": "File",
           "artifact": {
             "size": 1071028,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/13.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/13.ogg",
             "MD5": "9c04974c5fd267665a46e92c60a22ef9",
             "path": "config/analog/records/13.ogg"
           }
@@ -664,7 +674,7 @@
           "type": "File",
           "artifact": {
             "size": 5254778,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/5.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/5.ogg",
             "MD5": "8cb175e746d9c45ce21b17a6fad721a4",
             "path": "config/analog/records/5.ogg"
           }
@@ -675,7 +685,7 @@
           "type": "File",
           "artifact": {
             "size": 2587419,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/blocks.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/blocks.ogg",
             "MD5": "70f37c7ab1f29f856045ec7beed16263",
             "path": "config/analog/records/blocks.ogg"
           }
@@ -686,7 +696,7 @@
           "type": "File",
           "artifact": {
             "size": 1286636,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/cat.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/cat.ogg",
             "MD5": "968cde0f808270ba4c96e9d35c99cd17",
             "path": "config/analog/records/cat.ogg"
           }
@@ -697,7 +707,7 @@
           "type": "File",
           "artifact": {
             "size": 1379756,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/chirp.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/chirp.ogg",
             "MD5": "2aa6fea9445d5321050bc24385cbab57",
             "path": "config/analog/records/chirp.ogg"
           }
@@ -708,7 +718,7 @@
           "type": "File",
           "artifact": {
             "size": 1285938,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/far.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/far.ogg",
             "MD5": "3c00697960f927832369bbcf75f1903a",
             "path": "config/analog/records/far.ogg"
           }
@@ -719,7 +729,7 @@
           "type": "File",
           "artifact": {
             "size": 1430016,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/mall.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/mall.ogg",
             "MD5": "75f319871e1ef2f5ef2ef06f1a06429b",
             "path": "config/analog/records/mall.ogg"
           }
@@ -730,7 +740,7 @@
           "type": "File",
           "artifact": {
             "size": 663709,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/mellohi.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/mellohi.ogg",
             "MD5": "7f42af97ef64185f1ed48dd67c16b434",
             "path": "config/analog/records/mellohi.ogg"
           }
@@ -741,7 +751,7 @@
           "type": "File",
           "artifact": {
             "size": 5649721,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/otherside.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/otherside.ogg",
             "MD5": "0b3210d06c907d29e928f3c23be155f1",
             "path": "config/analog/records/otherside.ogg"
           }
@@ -752,7 +762,7 @@
           "type": "File",
           "artifact": {
             "size": 4838555,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/pigstep.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/pigstep.ogg",
             "MD5": "52b405c41bb22d6a2431bac96fa35658",
             "path": "config/analog/records/pigstep.ogg"
           }
@@ -763,7 +773,7 @@
           "type": "File",
           "artifact": {
             "size": 5838275,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/relic.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/relic.ogg",
             "MD5": "4226b7efccf0082e96f1763533a8359f",
             "path": "config/analog/records/relic.ogg"
           }
@@ -774,7 +784,7 @@
           "type": "File",
           "artifact": {
             "size": 1180789,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/stal.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/stal.ogg",
             "MD5": "9420f8540e7c5547f0fd7b8e49cc2969",
             "path": "config/analog/records/stal.ogg"
           }
@@ -785,7 +795,7 @@
           "type": "File",
           "artifact": {
             "size": 1558180,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/strad.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/strad.ogg",
             "MD5": "ec597f9e76d22237939d7a79433511d4",
             "path": "config/analog/records/strad.ogg"
           }
@@ -796,7 +806,7 @@
           "type": "File",
           "artifact": {
             "size": 1845255,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/wait.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/wait.ogg",
             "MD5": "a4f993288ccfb05d6eae5754e89bf4c5",
             "path": "config/analog/records/wait.ogg"
           }
@@ -807,7 +817,7 @@
           "type": "File",
           "artifact": {
             "size": 1987588,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/ward.ogg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/ward.ogg",
             "MD5": "3a5d70ca01e203ab60dafd5907ef658a",
             "path": "config/analog/records/ward.ogg"
           }
@@ -818,7 +828,7 @@
           "type": "File",
           "artifact": {
             "size": 211,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog/records/_list.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog/records/_list.json",
             "MD5": "ced040094e838d0c4aaae8568145a662",
             "path": "config/analog/records/_list.json"
           }
@@ -829,7 +839,7 @@
           "type": "File",
           "artifact": {
             "size": 321,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/analog.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/analog.json",
             "MD5": "39bc0a02cb66042932ae4fa5e1aa5436",
             "path": "config/analog.json"
           }
@@ -840,7 +850,7 @@
           "type": "File",
           "artifact": {
             "size": 1327,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/appleskin.json5",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/appleskin.json5",
             "MD5": "406b4584562fb60304a8adc824de0000",
             "path": "config/appleskin.json5"
           }
@@ -851,7 +861,7 @@
           "type": "File",
           "artifact": {
             "size": 2309,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/armoroftheages.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/armoroftheages.json",
             "MD5": "8b967c91c6e7caf7b9a092cc1284eed5",
             "path": "config/armoroftheages.json"
           }
@@ -862,7 +872,7 @@
           "type": "File",
           "artifact": {
             "size": 7818,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/armorpointspp.json5",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/armorpointspp.json5",
             "MD5": "2c155aed16bd088dd0878d29f5c746bf",
             "path": "config/armorpointspp.json5"
           }
@@ -873,7 +883,7 @@
           "type": "File",
           "artifact": {
             "size": 273,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/cardinal-components-api.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/cardinal-components-api.properties",
             "MD5": "7ca22fadddc61aebd6de92cf16952f74",
             "path": "config/cardinal-components-api.properties"
           }
@@ -884,7 +894,7 @@
           "type": "File",
           "artifact": {
             "size": 186,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/chat_heads.json5",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/chat_heads.json5",
             "MD5": "bb9ec2f6f04d4905eb0501d30ce13923",
             "path": "config/chat_heads.json5"
           }
@@ -895,7 +905,7 @@
           "type": "File",
           "artifact": {
             "size": 1854,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/comforts-server.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/comforts-server.toml",
             "MD5": "6bcc440943d65f953526c48dfc50338f",
             "path": "config/comforts-server.toml"
           }
@@ -906,7 +916,7 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/CoroUtil/General.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/CoroUtil/General.toml",
             "MD5": "8f9eed7bc02c6d45d54ea813d5ddf1cc",
             "path": "config/CoroUtil/General.toml"
           }
@@ -917,7 +927,7 @@
           "type": "File",
           "artifact": {
             "size": 5401,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/create-client.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/create-client.toml",
             "MD5": "7d6991a2e41b947140a215389cb019f7",
             "path": "config/create-client.toml"
           }
@@ -928,7 +938,7 @@
           "type": "File",
           "artifact": {
             "size": 157,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/create-common.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/create-common.toml",
             "MD5": "7503e1571dd136604d3a78582d1a6cb0",
             "path": "config/create-common.toml"
           }
@@ -939,7 +949,7 @@
           "type": "File",
           "artifact": {
             "size": 162,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/drippyloadingscreen/options.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/drippyloadingscreen/options.txt",
             "MD5": "422b46098fc009b4e6a0b1b16c61e17c",
             "path": "config/drippyloadingscreen/options.txt"
           }
@@ -950,7 +960,7 @@
           "type": "File",
           "artifact": {
             "size": 75,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/dynamic_fps.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/dynamic_fps.json",
             "MD5": "0b7bd1befa51160ebda7cee296ba3214",
             "path": "config/dynamic_fps.json"
           }
@@ -961,7 +971,7 @@
           "type": "File",
           "artifact": {
             "size": 1829,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/entityculling.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/entityculling.json",
             "MD5": "bff7b8c50af469930f68a43787910b37",
             "path": "config/entityculling.json"
           }
@@ -972,7 +982,7 @@
           "type": "File",
           "artifact": {
             "size": 291,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fabric/indigo-renderer.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fabric/indigo-renderer.properties",
             "MD5": "3e755cb3ab55fee0864f99bb45a39155",
             "path": "config/fabric/indigo-renderer.properties"
           }
@@ -983,7 +993,7 @@
           "type": "File",
           "artifact": {
             "size": 265932,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/assets/nopng.png",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/assets/nopng.png",
             "MD5": "2fee17b59d43e3e3305ddc775146e3c9",
             "path": "config/fancymenu/assets/nopng.png"
           }
@@ -994,7 +1004,7 @@
           "type": "File",
           "artifact": {
             "size": 132839,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/assets/roawxminecraft_title.png",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/assets/roawxminecraft_title.png",
             "MD5": "a042c60e6457d0c5a666c96a938b50f4",
             "path": "config/fancymenu/assets/roawxminecraft_title.png"
           }
@@ -1005,7 +1015,7 @@
           "type": "File",
           "artifact": {
             "size": 157,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/customizablemenus.txt",
             "MD5": "592c5ce64299d91fd9f3b72ea2fcd554",
             "path": "config/fancymenu/customizablemenus.txt"
           }
@@ -1016,7 +1026,7 @@
           "type": "File",
           "artifact": {
             "size": 5033,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
             "MD5": "bacf7510bae241033ed5d3f262d00544",
             "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
           }
@@ -1027,7 +1037,7 @@
           "type": "File",
           "artifact": {
             "size": 20102,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
             "MD5": "2cc9688fa4e600c9b695e9e9f1badca0",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
@@ -1038,7 +1048,7 @@
           "type": "File",
           "artifact": {
             "size": 35725,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
             "MD5": "02998599c9c12293ea8da7c07ce81b75",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
@@ -1049,7 +1059,7 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
             "MD5": "106e52948415f0879c53304f50783b28",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
@@ -1060,7 +1070,7 @@
           "type": "File",
           "artifact": {
             "size": 197,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
             "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
@@ -1071,7 +1081,7 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/legacy_checklist.txt",
             "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
@@ -1082,7 +1092,7 @@
           "type": "File",
           "artifact": {
             "size": 2037,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/options.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/options.txt",
             "MD5": "c7db85c25adfe855fe192b97497eaaab",
             "path": "config/fancymenu/options.txt"
           }
@@ -1093,7 +1103,7 @@
           "type": "File",
           "artifact": {
             "size": 4133,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/ui_themes/dark.json",
             "MD5": "3981f37966b00a80e31aac89169be280",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
@@ -1104,7 +1114,7 @@
           "type": "File",
           "artifact": {
             "size": 4135,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/ui_themes/light.json",
             "MD5": "adfba137b3d62c50a5186a4f6523a72a",
             "path": "config/fancymenu/ui_themes/light.json"
           }
@@ -1115,7 +1125,7 @@
           "type": "File",
           "artifact": {
             "size": 23,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/fancymenu/user_variables.db",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
           }
@@ -1126,7 +1136,7 @@
           "type": "File",
           "artifact": {
             "size": 1525,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/ferritecore.mixin.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/ferritecore.mixin.properties",
             "MD5": "bf3e6be63e300b0290cfc849beb64ede",
             "path": "config/ferritecore.mixin.properties"
           }
@@ -1137,7 +1147,7 @@
           "type": "File",
           "artifact": {
             "size": 78,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/flywheel.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/flywheel.json",
             "MD5": "c87b9752e4ce87efbfca9d6aeb6ca335",
             "path": "config/flywheel.json"
           }
@@ -1148,7 +1158,7 @@
           "type": "File",
           "artifact": {
             "size": 1582,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/forgeconfigapiport.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/forgeconfigapiport.toml",
             "MD5": "d7a4bb7824a6e62553e5c6df78441291",
             "path": "config/forgeconfigapiport.toml"
           }
@@ -1159,7 +1169,7 @@
           "type": "File",
           "artifact": {
             "size": 1060,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/immediatelyfast.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/immediatelyfast.json",
             "MD5": "7b2d05a9b2f2745055edf3c8d1d0b155",
             "path": "config/immediatelyfast.json"
           }
@@ -1170,7 +1180,7 @@
           "type": "File",
           "artifact": {
             "size": 116,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/indium-renderer.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/indium-renderer.properties",
             "MD5": "bab8942b8b26c5b26eb006deff0a605c",
             "path": "config/indium-renderer.properties"
           }
@@ -1181,7 +1191,7 @@
           "type": "File",
           "artifact": {
             "size": 271,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/iris.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/iris.properties",
             "MD5": "fdeff70d01f0880eaefa0e0b02c807d6",
             "path": "config/iris.properties"
           }
@@ -1192,7 +1202,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/blacklist.cfg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/blacklist.cfg",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/jei/blacklist.cfg"
           }
@@ -1203,7 +1213,7 @@
           "type": "File",
           "artifact": {
             "size": 45,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
             "MD5": "98866d444d25f86d168a764960188a66",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
@@ -1214,7 +1224,7 @@
           "type": "File",
           "artifact": {
             "size": 86,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
             "MD5": "a297d9637a74577adaed06e68221a8a0",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
@@ -1225,7 +1235,7 @@
           "type": "File",
           "artifact": {
             "size": 7991,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/jei-client.ini",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/jei-client.ini",
             "MD5": "81c1f04ca66332819d0805e5323f3e4a",
             "path": "config/jei/jei-client.ini"
           }
@@ -1236,7 +1246,7 @@
           "type": "File",
           "artifact": {
             "size": 1338,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/jei-colors.ini",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/jei-colors.ini",
             "MD5": "54322062602d3aabb6b11455e07de765",
             "path": "config/jei/jei-colors.ini"
           }
@@ -1247,7 +1257,7 @@
           "type": "File",
           "artifact": {
             "size": 918,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/jei-debug.ini",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/jei-debug.ini",
             "MD5": "4dd10e2f07441d4820fe65e804aac24c",
             "path": "config/jei/jei-debug.ini"
           }
@@ -1258,7 +1268,7 @@
           "type": "File",
           "artifact": {
             "size": 463,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/jei-mod-id-format.ini",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/jei-mod-id-format.ini",
             "MD5": "457dca8722dc66e695196c24fba7875f",
             "path": "config/jei/jei-mod-id-format.ini"
           }
@@ -1269,7 +1279,7 @@
           "type": "File",
           "artifact": {
             "size": 234,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/jei/recipe-category-sort-order.ini",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/jei/recipe-category-sort-order.ini",
             "MD5": "e23ab9b8006daae0e8be5077e7a173b5",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
@@ -1280,7 +1290,7 @@
           "type": "File",
           "artifact": {
             "size": 369,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/konkrete/locals/de_de.local",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/konkrete/locals/de_de.local",
             "MD5": "3aac3df2519057d2305f894c37771e30",
             "path": "config/konkrete/locals/de_de.local"
           }
@@ -1291,7 +1301,7 @@
           "type": "File",
           "artifact": {
             "size": 426,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/konkrete/locals/en_us.local",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/konkrete/locals/en_us.local",
             "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
             "path": "config/konkrete/locals/en_us.local"
           }
@@ -1302,7 +1312,7 @@
           "type": "File",
           "artifact": {
             "size": 313,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/konkrete/locals/pl_pl.local",
             "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
             "path": "config/konkrete/locals/pl_pl.local"
           }
@@ -1313,7 +1323,7 @@
           "type": "File",
           "artifact": {
             "size": 322,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/konkrete/locals/pt_br.local",
             "MD5": "2d055da094c115b94f0e4373a2e06ebe",
             "path": "config/konkrete/locals/pt_br.local"
           }
@@ -1324,7 +1334,7 @@
           "type": "File",
           "artifact": {
             "size": 4028,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/lambdynlights.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/lambdynlights.toml",
             "MD5": "5fbc943a25bef8b29687e66abbf4f91b",
             "path": "config/lambdynlights.toml"
           }
@@ -1335,7 +1345,7 @@
           "type": "File",
           "artifact": {
             "size": 101,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/libgui.json5",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/libgui.json5",
             "MD5": "8fedeb67f790fe8c9a81964f01709347",
             "path": "config/libgui.json5"
           }
@@ -1346,7 +1356,7 @@
           "type": "File",
           "artifact": {
             "size": 430,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/lithium.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/lithium.properties",
             "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
             "path": "config/lithium.properties"
           }
@@ -1357,7 +1367,7 @@
           "type": "File",
           "artifact": {
             "size": 385,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/lockandblock.json5",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/lockandblock.json5",
             "MD5": "9e84e459fb5416b1a2067f84cae19d66",
             "path": "config/lockandblock.json5"
           }
@@ -1368,7 +1378,7 @@
           "type": "File",
           "artifact": {
             "size": 113,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/mcmddj.json5",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/mcmddj.json5",
             "MD5": "a3857f6ee3546ecb81f4865008cb1213",
             "path": "config/mcmddj.json5"
           }
@@ -1379,7 +1389,7 @@
           "type": "File",
           "artifact": {
             "size": 4345,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/modernfix-mixins.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/modernfix-mixins.properties",
             "MD5": "fda4c780b7a24cd846df4c7d5a513b2e",
             "path": "config/modernfix-mixins.properties"
           }
@@ -1390,7 +1400,7 @@
           "type": "File",
           "artifact": {
             "size": 814,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/modmenu.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/modmenu.json",
             "MD5": "e8f3869015601ad3afae3fa4412c307c",
             "path": "config/modmenu.json"
           }
@@ -1401,7 +1411,7 @@
           "type": "File",
           "artifact": {
             "size": 135,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/MouseTweaks.cfg",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/MouseTweaks.cfg",
             "MD5": "ff577ca09e989c07c056c7cdff465be3",
             "path": "config/MouseTweaks.cfg"
           }
@@ -1412,7 +1422,7 @@
           "type": "File",
           "artifact": {
             "size": 638,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/polymer/client.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/polymer/client.json",
             "MD5": "6adbd7b66f120f03935c0ebbb2244d68",
             "path": "config/polymer/client.json"
           }
@@ -1423,7 +1433,7 @@
           "type": "File",
           "artifact": {
             "size": 630,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/polymer/common.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/polymer/common.json",
             "MD5": "2e51024fc4f2acd691135918093ec11d",
             "path": "config/polymer/common.json"
           }
@@ -1434,7 +1444,7 @@
           "type": "File",
           "artifact": {
             "size": 140,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/polymer/networking.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/polymer/networking.json",
             "MD5": "c4a2b5c1ee0ae787e1530420c0ad4c77",
             "path": "config/polymer/networking.json"
           }
@@ -1445,7 +1455,7 @@
           "type": "File",
           "artifact": {
             "size": 442,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/polymer/resource-pack.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/polymer/resource-pack.json",
             "MD5": "c39b3278efca4097cd44476e3004c3aa",
             "path": "config/polymer/resource-pack.json"
           }
@@ -1456,7 +1466,7 @@
           "type": "File",
           "artifact": {
             "size": 770,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/polymer/server.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/polymer/server.json",
             "MD5": "ce6095641a31652cf67bace86a979ef6",
             "path": "config/polymer/server.json"
           }
@@ -1467,7 +1477,7 @@
           "type": "File",
           "artifact": {
             "size": 661,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/skinrestorer/config.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/skinrestorer/config.json",
             "MD5": "2fad11f02f47c3e13ab416176cef9221",
             "path": "config/skinrestorer/config.json"
           }
@@ -1478,7 +1488,7 @@
           "type": "File",
           "artifact": {
             "size": 105,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/skinrestorer/mojang_profile_cache.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/skinrestorer/mojang_profile_cache.json",
             "MD5": "c9c8672d4da1e23d9ef9422aa723e6ba",
             "path": "config/skinrestorer/mojang_profile_cache.json"
           }
@@ -1489,7 +1499,7 @@
           "type": "File",
           "artifact": {
             "size": 1542,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sodium-extra-options.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sodium-extra-options.json",
             "MD5": "e50a24758e43f8e03185d52e1603595f",
             "path": "config/sodium-extra-options.json"
           }
@@ -1500,7 +1510,7 @@
           "type": "File",
           "artifact": {
             "size": 360,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sodium-extra.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sodium-extra.properties",
             "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
             "path": "config/sodium-extra.properties"
           }
@@ -1511,7 +1521,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sodium-fingerprint.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sodium-fingerprint.json",
             "MD5": "973d95636a7dda86c2c0078ccda18033",
             "path": "config/sodium-fingerprint.json"
           }
@@ -1522,7 +1532,7 @@
           "type": "File",
           "artifact": {
             "size": 265,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sodium-mixins.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sodium-mixins.properties",
             "MD5": "456d99888369486f42d6ea7f70294170",
             "path": "config/sodium-mixins.properties"
           }
@@ -1533,7 +1543,7 @@
           "type": "File",
           "artifact": {
             "size": 632,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sodium-options.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sodium-options.json",
             "MD5": "0526655acb6938560728d66ecb98fc90",
             "path": "config/sodium-options.json"
           }
@@ -1544,7 +1554,7 @@
           "type": "File",
           "artifact": {
             "size": 122,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sophisticatedbackpacks-common.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sophisticatedbackpacks-common.toml",
             "MD5": "2c6eb54ca9cb7722ec68ffc73667b88b",
             "path": "config/sophisticatedbackpacks-common.toml"
           }
@@ -1555,7 +1565,7 @@
           "type": "File",
           "artifact": {
             "size": 351,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sophisticatedcore-client.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sophisticatedcore-client.toml",
             "MD5": "154bd9cf14a45c6aa007cb5467f1a454",
             "path": "config/sophisticatedcore-client.toml"
           }
@@ -1566,7 +1576,7 @@
           "type": "File",
           "artifact": {
             "size": 112,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sophisticatedcore-common.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sophisticatedcore-common.toml",
             "MD5": "04ba1fb08365355153bbcd2fbc7b560a",
             "path": "config/sophisticatedcore-common.toml"
           }
@@ -1577,7 +1587,7 @@
           "type": "File",
           "artifact": {
             "size": 71993,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
             "MD5": "ddf143b4f735482e95d87b8464cb2f19",
             "path": "config/sound_physics_remastered/allowed_sounds.properties"
           }
@@ -1588,7 +1598,7 @@
           "type": "File",
           "artifact": {
             "size": 4831,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
             "MD5": "65630e0f012205fc8b074e2f90ff89c2",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
@@ -1599,7 +1609,7 @@
           "type": "File",
           "artifact": {
             "size": 4713,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
             "MD5": "a96fdc43367fe049dff56acbf204a79d",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
@@ -1610,7 +1620,7 @@
           "type": "File",
           "artifact": {
             "size": 5105,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/sound_physics_remastered/soundphysics.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/sound_physics_remastered/soundphysics.properties",
             "MD5": "1819a3cbf350b2f03143b7ef400f77f0",
             "path": "config/sound_physics_remastered/soundphysics.properties"
           }
@@ -1621,7 +1631,7 @@
           "type": "File",
           "artifact": {
             "size": 328,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/toms_storage.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/toms_storage.json",
             "MD5": "621d9e357e260bff619792b128cf3262",
             "path": "config/toms_storage.json"
           }
@@ -1632,7 +1642,7 @@
           "type": "File",
           "artifact": {
             "size": 1182,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/voicechat/translations.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/voicechat/translations.properties",
             "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
             "path": "config/voicechat/translations.properties"
           }
@@ -1643,7 +1653,7 @@
           "type": "File",
           "artifact": {
             "size": 2,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/voicechat/username-cache.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/voicechat/username-cache.json",
             "MD5": "99914b932bd37a50b983c5e7c90ae93b",
             "path": "config/voicechat/username-cache.json"
           }
@@ -1654,7 +1664,7 @@
           "type": "File",
           "artifact": {
             "size": 4378,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/voicechat/voicechat-client.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/voicechat/voicechat-client.properties",
             "MD5": "eb4a7202e359c46cf912ed0ff04ec900",
             "path": "config/voicechat/voicechat-client.properties"
           }
@@ -1665,7 +1675,7 @@
           "type": "File",
           "artifact": {
             "size": 2502,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/voicechat/voicechat-server.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/voicechat/voicechat-server.properties",
             "MD5": "d3ef1fa10e07bc48c22e2059f1c5cadf",
             "path": "config/voicechat/voicechat-server.properties"
           }
@@ -1676,7 +1686,7 @@
           "type": "File",
           "artifact": {
             "size": 37,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/voicechat/voicechat-volumes.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/voicechat/voicechat-volumes.properties",
             "MD5": "fcb38654c898989fdf9b82707c3ee2f5",
             "path": "config/voicechat/voicechat-volumes.properties"
           }
@@ -1687,7 +1697,7 @@
           "type": "File",
           "artifact": {
             "size": 3196,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/watut-client.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/watut-client.toml",
             "MD5": "c6b58decac18763a29c151b7b02ce84b",
             "path": "config/watut-client.toml"
           }
@@ -1698,7 +1708,7 @@
           "type": "File",
           "artifact": {
             "size": 144,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/watut-common.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/watut-common.toml",
             "MD5": "e2a427243d4c0ef74d402a96fbf1e35e",
             "path": "config/watut-common.toml"
           }
@@ -1709,7 +1719,7 @@
           "type": "File",
           "artifact": {
             "size": 3367,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/watut-item-arm-adjustments.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/watut-item-arm-adjustments.json",
             "MD5": "25925ecf5d13afcb55b2d4fcff81361c",
             "path": "config/watut-item-arm-adjustments.json"
           }
@@ -1720,7 +1730,7 @@
           "type": "File",
           "artifact": {
             "size": 2880,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/watut-server.toml",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/watut-server.toml",
             "MD5": "8880a36d5fa073507b95efd67c4ed6f9",
             "path": "config/watut-server.toml"
           }
@@ -1731,7 +1741,7 @@
           "type": "File",
           "artifact": {
             "size": 824,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/wiretap/wiretap-server.properties",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/wiretap/wiretap-server.properties",
             "MD5": "15e88fe74b6ded074e0d3a2aa4695b98",
             "path": "config/wiretap/wiretap-server.properties"
           }
@@ -1742,7 +1752,7 @@
           "type": "File",
           "artifact": {
             "size": 145,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/xaerominimap-common.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/xaerominimap-common.txt",
             "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
             "path": "config/xaerominimap-common.txt"
           }
@@ -1753,7 +1763,7 @@
           "type": "File",
           "artifact": {
             "size": 3641,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/xaerominimap.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/xaerominimap.txt",
             "MD5": "bf456198aef8254747a5e77bb1da3b4b",
             "path": "config/xaerominimap.txt"
           }
@@ -1764,7 +1774,7 @@
           "type": "File",
           "artifact": {
             "size": 5531,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/xaerominimap_entities.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/xaerominimap_entities.json",
             "MD5": "6aa0c1720795d59a3cd21e3becba9685",
             "path": "config/xaerominimap_entities.json"
           }
@@ -1775,7 +1785,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/xaeropatreon.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/xaeropatreon.txt",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/xaeropatreon.txt"
           }
@@ -1786,7 +1796,7 @@
           "type": "File",
           "artifact": {
             "size": 120,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/xaeroworldmap-common.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/xaeroworldmap-common.txt",
             "MD5": "5a2200d083554257d61384f2c486162b",
             "path": "config/xaeroworldmap-common.txt"
           }
@@ -1797,7 +1807,7 @@
           "type": "File",
           "artifact": {
             "size": 1218,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/xaeroworldmap.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/xaeroworldmap.txt",
             "MD5": "61668053aa4dc58507cde11ed376502c",
             "path": "config/xaeroworldmap.txt"
           }
@@ -1808,7 +1818,7 @@
           "type": "File",
           "artifact": {
             "size": 35,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yacl.json5",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yacl.json5",
             "MD5": "81d542abb72c4750c7218e0d975e3368",
             "path": "config/yacl.json5"
           }
@@ -1819,7 +1829,7 @@
           "type": "File",
           "artifact": {
             "size": 61440,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/bingo.db",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/bingo.db",
             "MD5": "a5d49ada2ff6de79f1ab1635f589ceb1",
             "path": "config/yet-another-minecraft-bingo/bingo.db"
           }
@@ -1830,7 +1840,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_countdown.mcfunction",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_countdown.mcfunction",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/yet-another-minecraft-bingo/commands/on_countdown.mcfunction"
           }
@@ -1841,7 +1851,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_playing.mcfunction",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_playing.mcfunction",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/yet-another-minecraft-bingo/commands/on_playing.mcfunction"
           }
@@ -1852,7 +1862,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_postgame.mcfunction",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_postgame.mcfunction",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/yet-another-minecraft-bingo/commands/on_postgame.mcfunction"
           }
@@ -1863,7 +1873,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_pregame.mcfunction",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_pregame.mcfunction",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/yet-another-minecraft-bingo/commands/on_pregame.mcfunction"
           }
@@ -1874,7 +1884,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_starting.mcfunction",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/commands/on_starting.mcfunction",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/yet-another-minecraft-bingo/commands/on_starting.mcfunction"
           }
@@ -1885,7 +1895,7 @@
           "type": "File",
           "artifact": {
             "size": 3098,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/config.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/config.json",
             "MD5": "76f7f637a64a4e690c48a69228f2e16f",
             "path": "config/yet-another-minecraft-bingo/config.json"
           }
@@ -1896,7 +1906,7 @@
           "type": "File",
           "artifact": {
             "size": 3902,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/files.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/files.json",
             "MD5": "81e0aa5d270062b10cd214a84e56c6a7",
             "path": "config/yet-another-minecraft-bingo/files.json"
           }
@@ -1907,7 +1917,7 @@
           "type": "File",
           "artifact": {
             "size": 1119,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/game-options-default.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/game-options-default.json",
             "MD5": "6c4f78183bee234b96b99232dd9c2713",
             "path": "config/yet-another-minecraft-bingo/game-options-default.json"
           }
@@ -1918,7 +1928,7 @@
           "type": "File",
           "artifact": {
             "size": 1119,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/game-options.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/game-options.json",
             "MD5": "ad630b7289e430c229dad25aef93137b",
             "path": "config/yet-another-minecraft-bingo/game-options.json"
           }
@@ -1929,7 +1939,7 @@
           "type": "File",
           "artifact": {
             "size": 4383,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/kits/playerkit.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/kits/playerkit.json",
             "MD5": "49b42197bc34306fcf5e06c8099f80fc",
             "path": "config/yet-another-minecraft-bingo/kits/playerkit.json"
           }
@@ -1940,7 +1950,7 @@
           "type": "File",
           "artifact": {
             "size": 276,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/kits/teamkit.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/kits/teamkit.json",
             "MD5": "4bb8de40d2216ea83cef69f39f284797",
             "path": "config/yet-another-minecraft-bingo/kits/teamkit.json"
           }
@@ -1951,7 +1961,7 @@
           "type": "File",
           "artifact": {
             "size": 558,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/messages/game_end.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/messages/game_end.json",
             "MD5": "8da63e289135f789de3caf937c871ebf",
             "path": "config/yet-another-minecraft-bingo/messages/game_end.json"
           }
@@ -1962,7 +1972,7 @@
           "type": "File",
           "artifact": {
             "size": 523,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/messages/game_start.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/messages/game_start.json",
             "MD5": "c6c1f197e5c94a9bab85be0c97ee0440",
             "path": "config/yet-another-minecraft-bingo/messages/game_start.json"
           }
@@ -1973,7 +1983,7 @@
           "type": "File",
           "artifact": {
             "size": 249,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/messages/scoreboard.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/messages/scoreboard.json",
             "MD5": "aff10d00cd4531e82a266587d0d46ee3",
             "path": "config/yet-another-minecraft-bingo/messages/scoreboard.json"
           }
@@ -1984,7 +1994,7 @@
           "type": "File",
           "artifact": {
             "size": 6572,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/biome_specific.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/biome_specific.json",
             "MD5": "9123d0d7720a7f14c502da1d5b770bcc",
             "path": "config/yet-another-minecraft-bingo/tags/biome_specific.json"
           }
@@ -1995,7 +2005,7 @@
           "type": "File",
           "artifact": {
             "size": 52637,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/in_overworld.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/in_overworld.json",
             "MD5": "123efd562b5f56aa30bd77eb18eeae59",
             "path": "config/yet-another-minecraft-bingo/tags/in_overworld.json"
           }
@@ -2006,7 +2016,7 @@
           "type": "File",
           "artifact": {
             "size": 1917,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/in_the_end.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/in_the_end.json",
             "MD5": "b9909612268e0c79c081530a02d4db28",
             "path": "config/yet-another-minecraft-bingo/tags/in_the_end.json"
           }
@@ -2017,7 +2027,7 @@
           "type": "File",
           "artifact": {
             "size": 7379,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/in_the_nether.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/in_the_nether.json",
             "MD5": "9da6a9e93822c190ba240a0fa731b36e",
             "path": "config/yet-another-minecraft-bingo/tags/in_the_nether.json"
           }
@@ -2028,7 +2038,7 @@
           "type": "File",
           "artifact": {
             "size": 2809,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/needs_silk_touch.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/needs_silk_touch.json",
             "MD5": "a232861efc892850479ded40db6d2e38",
             "path": "config/yet-another-minecraft-bingo/tags/needs_silk_touch.json"
           }
@@ -2039,7 +2049,7 @@
           "type": "File",
           "artifact": {
             "size": 7734,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/tedious.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/tedious.json",
             "MD5": "ed9bd69977a621074ff9469b16c43142",
             "path": "config/yet-another-minecraft-bingo/tags/tedious.json"
           }
@@ -2050,7 +2060,7 @@
           "type": "File",
           "artifact": {
             "size": 4713,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/unobtainable.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tags/unobtainable.json",
             "MD5": "0631de7706391df098ff6422dde4685d",
             "path": "config/yet-another-minecraft-bingo/tags/unobtainable.json"
           }
@@ -2061,7 +2071,7 @@
           "type": "File",
           "artifact": {
             "size": 6304,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/advancements.tierlist.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/advancements.tierlist.json",
             "MD5": "aa8563adbfa6cc397c06f31cb5d46eb7",
             "path": "config/yet-another-minecraft-bingo/tierlists/advancements.tierlist.json"
           }
@@ -2072,7 +2082,7 @@
           "type": "File",
           "artifact": {
             "size": 10467,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/challenge.tierlist.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/challenge.tierlist.json",
             "MD5": "40bde030c499e3445aedb61251c6b9c6",
             "path": "config/yet-another-minecraft-bingo/tierlists/challenge.tierlist.json"
           }
@@ -2083,7 +2093,7 @@
           "type": "File",
           "artifact": {
             "size": 89765,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/items.tierlist.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/items.tierlist.json",
             "MD5": "00602b807886cc3915f4980a343fe2e2",
             "path": "config/yet-another-minecraft-bingo/tierlists/items.tierlist.json"
           }
@@ -2094,7 +2104,7 @@
           "type": "File",
           "artifact": {
             "size": 21291,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/simplified.tierlist.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/tierlists/simplified.tierlist.json",
             "MD5": "de0ea0c1607496f2efc3953449ae5af6",
             "path": "config/yet-another-minecraft-bingo/tierlists/simplified.tierlist.json"
           }
@@ -2105,7 +2115,7 @@
           "type": "File",
           "artifact": {
             "size": 518,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/voicechat.json",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/config/yet-another-minecraft-bingo/voicechat.json",
             "MD5": "674bbc4adb1ed4ad5eebf33b74b0c4f1",
             "path": "config/yet-another-minecraft-bingo/voicechat.json"
           }
@@ -2116,7 +2126,7 @@
           "type": "File",
           "artifact": {
             "size": 3737845,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/shaderpacks/photon_v1.2a.zip",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/shaderpacks/photon_v1.2a.zip",
             "MD5": "9189fd0de30af6ea20765a8f05380583",
             "path": "shaderpacks/photon_v1.2a.zip"
           }
@@ -2127,7 +2137,7 @@
           "type": "File",
           "artifact": {
             "size": 135,
-            "url": "https://roawx.ct.ws/servers/roawx-1.20.1/files/shaderpacks/photon_v1.2a.zip.txt",
+            "url": "https://cdn.jsdelivr.net/gh/roawwx/roawx-distro@main/servers/roawx-1.20.1/files/shaderpacks/photon_v1.2a.zip.txt",
             "MD5": "fbecc0e0c9790d10aad31ee2b5812284",
             "path": "shaderpacks/photon_v1.2a.zip.txt"
           }

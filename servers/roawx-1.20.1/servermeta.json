@@ -5,7 +5,7 @@
     "name": "roawx (Minecraft 1.20.1)",
     "description": "roawx Running Minecraft 1.20.1 (Fabric v0.17.2)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "mc.mikersx6.live:25565",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
