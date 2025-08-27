@@ -116,6 +116,76 @@
           ]
         },
         {
+          "id": "net.emilsg:backported_wolves:1.1.0-1.19.3-1.20.4@jar",
+          "name": "Backported Wolves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 300901,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/[Fabric]backported_wolves-1.1.0-1.19.3-1.20.4.jar",
+            "MD5": "f2af8770f1997d7f2408f1deeaad0eed"
+          }
+        },
+        {
+          "id": "net.ctov:ctov:3.4.10@jar",
+          "name": "ChoiceTheorem's Overhauled Village",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5758246,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/[fabric]ctov-3.4.10.jar",
+            "MD5": "7d5eeac35570b72983e6115431d1f01c"
+          }
+        },
+        {
+          "id": "com.autovw:advancednetherite:2.1.3-1.20.1@jar",
+          "name": "Advanced Netherite",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 502658,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/advancednetherite-fabric-2.1.3-1.20.1.jar",
+            "MD5": "c50f0ea1f91c98dc069dc03f76bf573b"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:advancementplaques:1.6.7@jar",
+          "name": "Advancement Plaques",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 194905,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+            "MD5": "eeca04d9749959c6d2063f6a0d98fb14"
+          }
+        },
+        {
+          "id": "com.blamejared:ambientenvironment:11.0.0.1@jar",
+          "name": "Ambient Environment",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7855,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar",
+            "MD5": "6959929ba1a48437196a39bee5a75778"
+          }
+        },
+        {
+          "id": "team.creative:ambientsounds:6.1.4@jar",
+          "name": "AmbientSounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83889009,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/AmbientSounds_FABRIC_v6.1.4_mc1.20.1.jar",
+            "MD5": "14433d748d7e46b21dee75b806047d8a"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:amendments:1.20-1.2.12@jar",
+          "name": "Amendments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 963837,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/amendments-1.20-1.2.12-fabric.jar",
+            "MD5": "972b0696b702fba1658ac202a721d907"
+          }
+        },
+        {
           "id": "dev.mrturtle:analog:1.2.2+1.20.1@jar",
           "name": "Analog",
           "type": "FabricMod",
@@ -126,6 +196,16 @@
           }
         },
         {
+          "id": "slexom.animal_feeding_trough.platform:animal_feeding_trough:1.1.0+1.20.1@jar",
+          "name": "Animal Feeding Trough",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 237378,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/animal_feeding_trough-1.1.0+1.20.1.jar",
+            "MD5": "aa76b897d10259fa239eae5b5b8b2d49"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20@jar",
           "name": "AppleSkin",
           "type": "FabricMod",
@@ -133,6 +213,16 @@
             "size": 1064362,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
             "MD5": "723370be246a876144ae424cbbfd60f4"
+          }
+        },
+        {
+          "id": "dev.architectury.utils:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 585207,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
           }
         },
         {
@@ -166,6 +256,56 @@
           }
         },
         {
+          "id": "einstein.armortrimitemfix:armortrimitemfix:1.0.2@jar",
+          "name": "Armor Trim Item Fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1958146,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ArmorTrimItemFix-fabric-1.20.1-1.0.2.jar",
+            "MD5": "2ed8087300360340e5aa35e9b1bc794e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:advanced_runtime_resource_pack:0.8.1@jar",
+          "name": "Runtime Resource Pack",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 160303,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/arrp-0.8.1.jar",
+            "MD5": "80a7ff8fd07c56481f56d7d3c07e1803"
+          }
+        },
+        {
+          "id": "earth.terrarium.athena.impl:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 74370,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/athena-fabric-1.20.1-3.1.2.jar",
+            "MD5": "4fd1c38eaf802239c3faeda982a77f2d"
+          }
+        },
+        {
+          "id": "net.darkhax:attributefix:21.0.4@jar",
+          "name": "AttributeFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17975,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/AttributeFix-Fabric-1.20.1-21.0.4.jar",
+            "MD5": "2ffa44ca36e0c954a9ba9e0d90adf740"
+          }
+        },
+        {
+          "id": "io.github.fourmisain:axesareweapons:1.7.3@jar",
+          "name": "Axes Are Weapons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27539,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/AxesAreWeapons-1.7.3-fabric-1.20.2.jar",
+            "MD5": "4329cb7c47ab184b4fd0e6adac5f2e50"
+          }
+        },
+        {
           "id": "mod.azure:azurelib:3.0.15@jar",
           "name": "AzureLib",
           "type": "FabricMod",
@@ -173,6 +313,106 @@
             "size": 1303990,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/azurelib-fabric-1.20.1-3.0.15.jar",
             "MD5": "2644e3ef472069eea09d9164f0d3dd0a"
+          }
+        },
+        {
+          "id": "net.blay09.mods.balm:balm-fabric:7.3.9@jar",
+          "name": "Balm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 411276,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/balm-fabric-1.20.1-7.3.9.jar",
+            "MD5": "45c7921dac0850a39dc930418ec308ec"
+          }
+        },
+        {
+          "id": "io.github.suel_ki:beautify:1.2.0+1.20.1@jar",
+          "name": "Beautify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 825685,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/beautify-1.2.0+1.20.1.jar",
+            "MD5": "129cad90777ace36aa6e8c41b843870e"
+          }
+        },
+        {
+          "id": "com.faboslav.friendsandfoes:beekeeperhut:2.0.1@jar",
+          "name": "Friends&Foes - Beekeeper Hut",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 220305,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/beekeeperhut-fabric-mc1.20.1-2.0.1.jar",
+            "MD5": "eb842bab160a9bb026fd20f18f9c4c9e"
+          }
+        },
+        {
+          "id": "net.morimori0317:bestylewither:1.6.1@jar",
+          "name": "BE Style Wither",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 173759,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/bestylewither-fabric-mc1.20-1.6.1.jar",
+            "MD5": "1c6f23c44170d64a5bd5a4c9b49c36cb"
+          }
+        },
+        {
+          "id": "generated.fabricmod:better-trim-tooltips:1.0.1@jar",
+          "name": "Better Trim Tooltips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 9985,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/better-trim-tooltips-1.0.1.jar",
+            "MD5": "e3c6b86d92c2fa7262545735ba9bdd24"
+          }
+        },
+        {
+          "id": "betteradvancements:betteradvancements:0.4.2.10@jar",
+          "name": "Better Advancements",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 97555,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/BetterAdvancements-Fabric-1.20.1-0.4.2.10.jar",
+            "MD5": "058289e6649dca029f0f7a3bc2906404"
+          }
+        },
+        {
+          "id": "net.Pandarix:betterarcheology:1.2.1-1.20.1@jar",
+          "name": "Better Archeology",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 892390,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/betterarcheology-1.2.1-1.20.1.jar",
+            "MD5": "d63a0640d7a2099befc0cc64be7877df"
+          }
+        },
+        {
+          "id": "net.bettercombat:bettercombat:1.8.6+1.20.1@jar",
+          "name": "Better Combat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 902833,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/bettercombat-fabric-1.8.6+1.20.1.jar",
+            "MD5": "8d474709e691da55e5d3bd6169184dbc"
+          }
+        },
+        {
+          "id": "com.natamus:betterconduitplacement:3.3@jar",
+          "name": "Better Conduit Placement",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 39284,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/betterconduitplacement-1.20.1-3.3.jar",
+            "MD5": "21618e5622bb6314751f78fd7ea12e56"
+          }
+        },
+        {
+          "id": "net.architects:simplemod:1.20.1@jar",
+          "name": "SimpleMod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 82187,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/betterendcitiesvanilla-1.20.1.jar",
+            "MD5": "99f6c1e09328ebc68f563fca21f8fd5c"
           }
         },
         {
@@ -186,6 +426,76 @@
           }
         },
         {
+          "id": "generated.fabricmod:bettermounthud:1.2.2@jar",
+          "name": "Better Mount HUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21587,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/bettermounthud-1.2.2.jar",
+            "MD5": "fdd255bd204f7d84850fd31ba687ad01"
+          }
+        },
+        {
+          "id": "dev.microcontrollers:betternightvision:1.0.1@jar",
+          "name": "Better Night Vision",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12284,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/betternightvision-1.0.1+1.20.4-fabric.jar",
+            "MD5": "3d6c20637a6379a51a906a3cd79b60a7"
+          }
+        },
+        {
+          "id": "com.vladmarica:betterpingdisplay:1.1.1@jar",
+          "name": "Better Ping Display",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 16226,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+            "MD5": "40daa668fb18e365eef2b71138186201"
+          }
+        },
+        {
+          "id": "generated.fabricmod:bettersafebed:1.20-9@jar",
+          "name": "BetterSafeBed",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5394,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/bettersafebed-fabric-1.20-9.jar",
+            "MD5": "d04748b8971453193d70c8dcfab6bd75"
+          }
+        },
+        {
+          "id": "io.github.thecsdev:betterstats:3.12.6+fabric-1.20.1@jar",
+          "name": "Better Statistics Screen",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 385358,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/betterstats-3.12.6+fabric-1.20.1.jar",
+            "MD5": "1d30a3af35f088faaea8f348386eb256"
+          }
+        },
+        {
+          "id": "com.legobmw99.BetterThanMending:betterthanmending:1.3.0@jar",
+          "name": "BetterThanMending",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4152,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/betterthanmending-1.3.0.jar",
+            "MD5": "15398ffa69910ba9497e54501f82b9dd"
+          }
+        },
+        {
+          "id": "fuzs.bettertridents:bettertridents:8.0.1@jar",
+          "name": "Better Tridents",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 168115,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/BetterTridents-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "8852bdd33431f4c7e1e75d2933cc6c65"
+          }
+        },
+        {
           "id": "me.jfenn.bingo:yet-another-minecraft-bingo:2.7.8+mc1.20.1@jar",
           "name": "Yet Another Minecraft BINGO",
           "type": "FabricMod",
@@ -193,6 +503,126 @@
             "size": 31306742,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/bingo-2.7.8+mc1.20.1.jar",
             "MD5": "b02b65481abfbd7abae084dc6a1f7438"
+          }
+        },
+        {
+          "id": "com.tterrag:blur:3.1.0@jar",
+          "name": "Blur (Fabric)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 164085,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/blur-3.1.0.jar",
+            "MD5": "5c2350374a817c510596dc2e96d5a20a"
+          }
+        },
+        {
+          "id": "me.soapsuds:boatiview:0.0.5@jar",
+          "name": "Boat Item View Fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1031662,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Boat-Item-View-Fabric-1.20.1-0.0.5.jar",
+            "MD5": "7424186d38ca5102bc75ebfbe4231637"
+          }
+        },
+        {
+          "id": "dev.doublekekse:boids:1.2.2@jar",
+          "name": "Boids",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 99421,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Boids-1.2.2.jar",
+            "MD5": "61ca97cc2fe8322dcb24800428b95feb"
+          }
+        },
+        {
+          "id": "net.darkhax:bookshelf:20.2.13@jar",
+          "name": "Bookshelf",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 322180,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Bookshelf-Fabric-1.20.1-20.2.13.jar",
+            "MD5": "6aae84a4b71657b5f06634230651b3f9"
+          }
+        },
+        {
+          "id": "io.ejekta:bountiful:6.0.4+1.20.1@jar",
+          "name": "Bountiful",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 503384,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Bountiful-6.0.4+1.20.1-fabric.jar",
+            "MD5": "a1afe2fc29929415f5c2a50e3c5af1a9"
+          }
+        },
+        {
+          "id": "generated.fabricmod:breakfree:1.2.0@jar",
+          "name": "Break Free",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 178255,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/breakfree-1.2.0.jar",
+            "MD5": "d60dd454e16ef3c1dcb40878be36c905"
+          }
+        },
+        {
+          "id": "net.Pandarix:bushierflowers:0.0.3-1.20.1@jar",
+          "name": "Bushier Flowers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 344495,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/bushierflowers-0.0.3-1.20.1.jar",
+            "MD5": "31d0e79bec70effdd4d018223c35b055"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:cakechomps:6.2.0+1.20.1@jar",
+          "name": "Cake Chomps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30577,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/cakechomps-fabric-6.2.0+1.20.1.jar",
+            "MD5": "3545e334bf9186bdc4c1d7a1f075b835"
+          }
+        },
+        {
+          "id": "generated.fabricmod:calmdowndog:1.1.0@jar",
+          "name": "Calm down, dog!",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 32922,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/calmdowndog-1.1.0.jar",
+            "MD5": "f0a5af9d6c574656cbf662e61ce2a189"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_camps_castles_carriages:2.3.3@jar",
+          "name": "Camps. Castles. Carriages.",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1080635,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/camps_castles_carriages-2.3.3.jar",
+            "MD5": "c280c71c17923d53cc9d8d9b65705d0d"
+          }
+        },
+        {
+          "id": "me.cael:capes:1.5.2+1.20@jar",
+          "name": "Capes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 170082,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/capes-1.5.2+1.20-fabric.jar",
+            "MD5": "312590823dd12dc676f8908be2e8396d"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:charmofundying:6.5.0+1.20.1@jar",
+          "name": "Charm of Undying",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 402847,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/charmofundying-fabric-6.5.0+1.20.1.jar",
+            "MD5": "7422a77113819cfd3450b86eff7907cc"
           }
         },
         {
@@ -206,6 +636,86 @@
           }
         },
         {
+          "id": "dzwdz.chat_heads:chat_heads:0.13.7@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 76261,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/chat_heads-0.13.7-fabric-1.20.jar",
+            "MD5": "b7f7ebeac2c1a02efa8c68003e546832"
+          }
+        },
+        {
+          "id": "ezzenix.chatanimation:chatanimation:1.0.5@jar",
+          "name": "ChatAnimation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 16345637,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/chatanimation-1.0.5.jar",
+            "MD5": "352e79d9617ed4adda0d3ba12936fef0"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:cherishedworlds:6.1.7+1.20.1@jar",
+          "name": "Cherished Worlds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 65739,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/cherishedworlds-fabric-6.1.7+1.20.1.jar",
+            "MD5": "9b1acfd847ddfdbaa3a84b06c3a07115"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15057458,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/chipped-fabric-1.20.1-3.0.7.jar",
+            "MD5": "776f440f3ba3c8024f3b60eb92a20f6f"
+          }
+        },
+        {
+          "id": "shcm.shsupercm:citresewn:1.2.2+1.20.1@jar",
+          "name": "CIT Resewn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 395586,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/citresewn-1.2.2+1.20.1.jar",
+            "MD5": "e7cd058b8f1866b8b599abdcc830b109"
+          }
+        },
+        {
+          "id": "net.mandalacreations:clean_tooltips:1.0@jar",
+          "name": "Clean Tooltips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23063,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/clean_tooltips-1.0-fabric-1.20.1.jar",
+            "MD5": "4cefd18b7338911bdbd1b822080b5ddd"
+          }
+        },
+        {
+          "id": "de.tyrannus.cleandebug:clean-debug:0.4.8@jar",
+          "name": "Clean F3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18384,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/CleanF3-mc1.20.x-0.4.8.jar",
+            "MD5": "b7e52001f19e421e4110abac37ea024c"
+          }
+        },
+        {
+          "id": "fabric.cc.cassian:clickthrough:3.1+1.20@jar",
+          "name": "ClickThrough Plus",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 75208,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/clickthrough-plus-3.1+1.20.jar",
+            "MD5": "48bd6fc595ae6da82bae6f08f43fb080"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.136@jar",
           "name": "Cloth Config v11",
           "type": "FabricMod",
@@ -213,6 +723,36 @@
             "size": 1172214,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0"
+          }
+        },
+        {
+          "id": "com.blamejared:clumps:12.0.0.4@jar",
+          "name": "Clumps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21987,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Clumps-fabric-1.20.1-12.0.0.4.jar",
+            "MD5": "c9caf2ddb4085e89e0cc823b21bce025"
+          }
+        },
+        {
+          "id": "it.crystalnest:cobweb:1.0.0@jar",
+          "name": "Cobweb",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 413942,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/cobweb-fabric-1.20.1-1.0.0.jar",
+            "MD5": "7a1a8156ea2577b7b568a62da9352c85"
+          }
+        },
+        {
+          "id": "com.natamus:collective:7.87@jar",
+          "name": "Collective",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 648876,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/collective-1.20.1-7.87.jar",
+            "MD5": "b0bcc1d5e282bab76d0f8f39a85a1a92"
           }
         },
         {
@@ -226,6 +766,46 @@
           }
         },
         {
+          "id": "snownee.companion:companion:5.2.2+fabric@jar",
+          "name": "Companion",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 45501,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Companion-1.20.1-Fabric-5.2.2.jar",
+            "MD5": "deacc4aa81767b73b3e4f1548a1330d0"
+          }
+        },
+        {
+          "id": "re.domi.doors:connected-doors:1.2+1.20@jar",
+          "name": "Connected Doors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 41851,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/connected-doors-1.2+1.20.jar",
+            "MD5": "9a02175ef3cfc49d5d612fe01e8135f5"
+          }
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.0+1.20.1@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1016063,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/continuity-3.0.0+1.20.1.jar",
+            "MD5": "d180631d4db7588393f1d0c280593bc3"
+          }
+        },
+        {
+          "id": "generated.fabricmod:controlling:12.0.2@jar",
+          "name": "Controlling For Fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 122778,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Controlling-fabric-1.20.1-12.0.2.jar",
+            "MD5": "87c6431504ff6a040da4533c933d6b12"
+          }
+        },
+        {
           "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
           "name": "CoroUtil",
           "type": "FabricMod",
@@ -233,6 +813,16 @@
             "size": 2392617,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/coroutil-fabric-1.20.1-1.3.7.jar",
             "MD5": "44365b7447c9b4c3aeadcadf454494aa"
+          }
+        },
+        {
+          "id": "ru.fewizz:crawl:0.12.0@jar",
+          "name": "Crawl",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 97866,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/crawl-0.12.0.jar",
+            "MD5": "693b2f07bf2b8280507f32d52bca388e"
           }
         },
         {
@@ -256,6 +846,116 @@
           }
         },
         {
+          "id": "team.creative:creativecore:2.12.24@jar",
+          "name": "CreativeCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1208841,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar",
+            "MD5": "ab044fdd2ad3dbba64f4000777dc973d"
+          }
+        },
+        {
+          "id": "tech.thatgravyboat:creeperoverhaul:3.0.2@jar",
+          "name": "Creeper Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1451306,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/creeperoverhaul-3.0.2-fabric.jar",
+            "MD5": "0b13cba2a00aafb49298f38d2d3f2e32"
+          }
+        },
+        {
+          "id": "com.natamus:cryingportals:2.8@jar",
+          "name": "Crying Portals",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 29717,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/cryingportals-1.20.1-2.8.jar",
+            "MD5": "cdd68512640249ac3ed4a5c5212db1d4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_ctov_friendsandfoescompat:2.0@jar",
+          "name": "CTOV - Friends and Foes Compat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 64653,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ctov-friends-and-foes-compat-2.0.jar",
+            "MD5": "7a4539c1ced93f088916763f05134c7b"
+          }
+        },
+        {
+          "id": "eu.midnightdust:customsplashscreen:2.1.1@jar",
+          "name": "Custom Splash Screen",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 663667,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/customsplashscreen-2.1.1.jar",
+            "MD5": "c301c453d824a53ea66ea72806a2286a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cubes-without-borders:3.0.0+mc1.20@jar",
+          "name": "Cubes Without Borders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 79729,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/cwb-fabric-3.0.0+mc1.20.jar",
+            "MD5": "839cba082f3a423966694bb50a2d529c"
+          }
+        },
+        {
+          "id": "net.darkhax:darkpaintings:17.0.4@jar",
+          "name": "DarkPaintings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 33833,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/DarkPaintings-Fabric-1.20.1-17.0.4.jar",
+            "MD5": "7730c6011d05585ac93cb32445f9275b"
+          }
+        },
+        {
+          "id": "dev.isxander:debugify:1.20.1+2.0@jar",
+          "name": "Debugify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 337545,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Debugify-1.20.1+2.0.jar",
+            "MD5": "39e6ead07cd3ce225fb24775e0cb0341"
+          }
+        },
+        {
+          "id": "com.kyanite:deeperdarker:1.3.2.1@jar",
+          "name": "Deeper and Darker",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17859423,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/deeperdarker-fabric-1.20-1.3.2.1.jar",
+            "MD5": "e708b050edf1b526dae3245e0596e75e"
+          }
+        },
+        {
+          "id": "com.natamus:dismountentity:3.5@jar",
+          "name": "Dismount Entity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30942,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/dismountentity-1.20.1-3.5.jar",
+            "MD5": "f508371dfd2bc5df833e2d2583c4f95d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:distractingtrims:2.0.4@jar",
+          "name": "DistractingTrims",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5686,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/DistractingTrims-Fabric-1.20.1-2.0.4.jar",
+            "MD5": "74964f7fd904c4f01e0382bdaa93a26d"
+          }
+        },
+        {
           "id": "de.keksuccino:drippyloadingscreen:3.0.12@jar",
           "name": "Drippy Loading Screen",
           "type": "FabricMod",
@@ -263,6 +963,26 @@
             "size": 229458,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
             "MD5": "dd8594f4f5d3ef444c0de9dbf6f6a51a"
+          }
+        },
+        {
+          "id": "me.pieking1215:waterdripsound:1.19-0.3.2@jar",
+          "name": "Drip Sounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 84945,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/DripSounds-1.19.4-0.3.2.jar",
+            "MD5": "dde92c669ac6e13fd46ee22a60103676"
+          }
+        },
+        {
+          "id": "generated.fabricmod:dyed:1.2.0@jar",
+          "name": "Dyed",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15207,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/dyed-fabric-1.20.4-1.2.0.jar",
+            "MD5": "fff489d91ec6db08b14d89bad37cd9d4"
           }
         },
         {
@@ -276,6 +996,176 @@
           }
         },
         {
+          "id": "link.e4mc:e4mc_minecraft:5.2.1@jar",
+          "name": "E4mc",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 568993,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/e4mc_minecraft-fabric-5.2.1.jar",
+            "MD5": "b035f7f6718f0f29b573f2b523bffe2f"
+          }
+        },
+        {
+          "id": "fuzs.easyanvils:easyanvils:8.0.2@jar",
+          "name": "Easy Anvils",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 129625,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+            "MD5": "c9ba3b47dcd5f93002ee1a5237abdf03"
+          }
+        },
+        {
+          "id": "fuzs.easymagic:easymagic:8.0.1@jar",
+          "name": "Easy Magic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104693,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "44d78d2ca99e6d5f4e9fdcfd2c5daec5"
+          }
+        },
+        {
+          "id": "ru.tpsd.eatinganimationmod:eatinganimationid:1.20+1.9.61@jar",
+          "name": "Eating Animation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1218710,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/eating-animation-1.20+1.9.61.jar",
+            "MD5": "090eeadcff74ce255e97285f8ab56472"
+          }
+        },
+        {
+          "id": "net.fyoncle.elysiumdaystweaks:elysium-days-tweaks:7.0.0@jar",
+          "name": "Elysium Days Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11119061,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/elysium-days-tweaks-7.0.0-1.20.1.jar",
+            "MD5": "e98978c9c0c2761ecf45a8207ba01b5c"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:elytraslot:6.4.4+1.20.1@jar",
+          "name": "Elytra Slot",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 85106,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/elytraslot-fabric-6.4.4+1.20.1.jar",
+            "MD5": "dcf34876e47da832db258110da1fe78e"
+          }
+        },
+        {
+          "id": "dev.kikugie.elytratrims.extensions:elytratrims_extensions:2.2.1@jar",
+          "name": "Elytra Trims Extensions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 74995,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/elytratrims_extensions-fabric-2.2.1.jar",
+            "MD5": "f1047dbb8190e35315ed3176f2989dd9"
+          }
+        },
+        {
+          "id": "dev.kikugie.elytratrims.platform:elytratrims:3.5.4@jar",
+          "name": "Elytra Trims",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 603722,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/elytratrims-fabric-3.5.4+1.20.1.jar",
+            "MD5": "8468731ab868e47affde43132a8059ff"
+          }
+        },
+        {
+          "id": "generated.fabricmod:moremcmeta_emissive_plugin:1.20.1-2.0.4@jar",
+          "name": "MoreMcmeta Emissive Textures Plugin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 243924,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/emissive-plugin-1.20.1-2.0.4-fabric.jar",
+            "MD5": "7fb652884a8ec8db92b4688f3f667cff"
+          }
+        },
+        {
+          "id": "generated.fabricmod:enchanted:vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1@jar",
+          "name": "Enchanted",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 233651,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+            "MD5": "800cfb6a40049f401e0856d4b347f64e"
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:17.1.19@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 63569,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/EnchantmentDescriptions-Fabric-1.20.1-17.1.19.jar",
+            "MD5": "f1378d5e98333bcc8daf02c0ac5e93ab"
+          }
+        },
+        {
+          "id": "tech.alexnijjar:endermanoverhaul:1.0.4@jar",
+          "name": "Enderman Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1194281,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+            "MD5": "aecdcf146c1678c91efc14eccf5bc0d6"
+          }
+        },
+        {
+          "id": "com.minenash:enhanced_attack_indicator:1.0.4+1.20@jar",
+          "name": "Enhanced Attack Indicator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 33342,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/enhanced_attack_indicator-1.0.4+1.20.jar",
+            "MD5": "1418ee5a06b9d36b9ab6e689b2cde1d5"
+          }
+        },
+        {
+          "id": "foundationgames.enhancedblockentities:enhancedblockentities:0.9+1.20@jar",
+          "name": "Enhanced Block Entities",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 490690,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
+            "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.4.0@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 443444,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/entity_model_features_fabric_1.20.1-2.4.0.jar",
+            "MD5": "e820f5c6ac078f326345cc7d449c0561"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.9@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 652400,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/entity_texture_features_fabric_1.20.1-6.2.9.jar",
+            "MD5": "69e81059aa60c49bc9c97918d4640edd"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.7.2@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 68941,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/entityculling-fabric-1.7.2-mc1.20.1.jar",
+            "MD5": "734c6af56419b17af48afe926acbfd8f"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.8.2@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
@@ -283,6 +1173,46 @@
             "size": 470860,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/entityculling-fabric-1.8.2-mc1.20.1.jar",
             "MD5": "036b75a2cdd8d762ec6328146469a4ea"
+          }
+        },
+        {
+          "id": "generated.fabricmod:explorify:1.6.2@jar",
+          "name": "Explorify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 974818,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Explorify%20v1.6.2%20f10-48.jar",
+            "MD5": "8ae334fc2bab2ea069e3af64f66a5703"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure:1.7.7@jar",
+          "name": "Exposure",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1308074,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/exposure-1.20.1-1.7.7-fabric.jar",
+            "MD5": "490a6b540b28606f20af6e9b18dbc15b"
+          }
+        },
+        {
+          "id": "dev.arbor.extrasoundsnext:extrasounds:1.3@jar",
+          "name": "ExtraSounds Next",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 211106,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ExtraSoundsNext-fabric-1.20.1-1.3.jar",
+            "MD5": "68d9ec3a388318d790af6d87f5955d01"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107289,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
           }
         },
         {
@@ -296,6 +1226,26 @@
           }
         },
         {
+          "id": "com.teamremastered:endrem:5.2.4@jar",
+          "name": "End Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 141139,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fabric-end-remastered-5.2.4.jar",
+            "MD5": "6b284f3429818f605eacf59663ac4510"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.0+kotlin.2.1.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7089756,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+            "MD5": "f6623d8c006095c4e08323f084e6c00e"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-language-kotlin:1.13.5+kotlin.2.2.10@jar",
           "name": "Fabric Language Kotlin",
           "type": "FabricMod",
@@ -303,6 +1253,36 @@
             "size": 7422276,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
             "MD5": "d1307b6cfb0e6eebc313857979ad063a"
+          }
+        },
+        {
+          "id": "me.ramidzkh:fabrishot:1.10.1@jar",
+          "name": "Fabrishot",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 46663,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fabrishot-1.10.1.jar",
+            "MD5": "2e08783777a9735f056911f190c3b722"
+          }
+        },
+        {
+          "id": "io.github.ultimateboomer.nofade:fadeless:1.0.1@jar",
+          "name": "Fadeless",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7876,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fadeless-1.0.1.jar",
+            "MD5": "1b17811bcc7052b8fc38a4c44bcf74a9"
+          }
+        },
+        {
+          "id": "randommcsomethin.fallingleaves:fallingleaves:1.15.6@jar",
+          "name": "Falling Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 156773,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fallingleaves-1.15.6+1.20.1.jar",
+            "MD5": "1d13a592b3c329e2bc10b658161e8429"
           }
         },
         {
@@ -316,6 +1296,16 @@
           }
         },
         {
+          "id": "me.fallenbreath:fastipping:1.0.5@jar",
+          "name": "Fast IP Ping",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10595,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fast-ip-ping-v1.0.5-mc1.20.4-fabric.jar",
+            "MD5": "64087867a53dcea06b115dc6961bef74"
+          }
+        },
+        {
           "id": "generated.fabricmod:ferritecore:6.0.1@jar",
           "name": "FerriteCore",
           "type": "FabricMod",
@@ -323,6 +1313,26 @@
             "size": 125197,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "com.faboslav.friendsandfoes:flowerymooblooms:2.0.2@jar",
+          "name": "Friends&Foes - Flowery Mooblooms",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 204580,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/flowerymooblooms-fabric-mc1.20.1-2.0.2.jar",
+            "MD5": "db1e20d5f121e0ea57ffaad71d9ca7f1"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.impl:forgeconfigapiport:8.0.1@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 396955,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "0842b1a68c115149c95a25e14d67acad"
           }
         },
         {
@@ -336,6 +1346,256 @@
           }
         },
         {
+          "id": "net.blay09.mods:forgivingvoid:10.0.1@jar",
+          "name": "Forgiving Void",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 69912,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/forgivingvoid-fabric-1.20-10.0.1.jar",
+            "MD5": "22c6000610748a2bef9d7310e0b3994e"
+          }
+        },
+        {
+          "id": "com.supermartijn642:formations:1.0.3@jar",
+          "name": "Formations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 281260,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/formations-1.0.3-fabric-mc1.20.2.jar",
+            "MD5": "405ac8b791d34a4458201f6038d22ada"
+          }
+        },
+        {
+          "id": "com.supermartijn642.formations.nether:formationsnether:1.0.5@jar",
+          "name": "Formations Nether",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 942157,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/formationsnether-1.0.5.jar",
+            "MD5": "60e4d722b0857070abd5d4eed5d50e88"
+          }
+        },
+        {
+          "id": "net.darkhax:friendlyfire:18.0.7@jar",
+          "name": "FriendlyFire",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23589,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/FriendlyFire-Fabric-1.20.1-18.0.7.jar",
+            "MD5": "73dadf6c54263d5b69bc2cce6131997f"
+          }
+        },
+        {
+          "id": "com.faboslav:friendsandfoes:3.0.6@jar",
+          "name": "Friends & Foes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3620808,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/friendsandfoes-fabric-mc1.20.1-3.0.6.jar",
+            "MD5": "fb7810d628c6e0110f09763dc4ff059b"
+          }
+        },
+        {
+          "id": "me.fzzyhmstrs:fzzy_config:0.5.9+1.20.1@jar",
+          "name": "Fzzy Config",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1540306,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/fzzy_config-0.5.9+1.20.1.jar",
+            "MD5": "31d268fdc305cab81dba183cd492c58e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:gamemenuremovegfarb:2.1.2@jar",
+          "name": "Game Menu Remove GFARB",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 34571,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/gamemenuremovegfarb-fabric-mc1.19.4-2.1.2.jar",
+            "MD5": "5a309e2a14c25a6e5f77213a831327bc"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.4.9@jar",
+          "name": "GeckoLib 4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1019731,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.4.9.jar",
+            "MD5": "3cf3d7fb3cc98b1cb9f5f0218b1fa3bd"
+          }
+        },
+        {
+          "id": "generated.fabricmod:glowing-torchflower:1.2.0@jar",
+          "name": "Glowing Torchflower",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1018689,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/glowing-torchflower-1.20-1.2.0.jar",
+            "MD5": "cd432f5e3c22919fec255c815c61eccf"
+          }
+        },
+        {
+          "id": "com.teamabode:guarding:2.4.0@jar",
+          "name": "Guarding",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 344832,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/guarding-2.4.0.jar",
+            "MD5": "441c9f8b5a22170bb3bdbd82e5c90df9"
+          }
+        },
+        {
+          "id": "dev.sterner:guardvillagers:2.0.9-1.20.1@jar",
+          "name": "GuardVillagers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 298755,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/guardvillagers-2.0.9-1.20.1.jar",
+            "MD5": "a25dcaae4ae2ba446327c51e87104a22"
+          }
+        },
+        {
+          "id": "earth.terrarium:handcrafted:3.0.6@jar",
+          "name": "Handcrafted",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7106384,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/handcrafted-fabric-1.20.1-3.0.6.jar",
+            "MD5": "0cb41833dc35949cb23625d2e2b3579d"
+          }
+        },
+        {
+          "id": "com.starfish_studios:hearth_and_home:1.20.1-2.0.3@jar",
+          "name": "Hearth & Home",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1174045,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/hearth_and_home-fabric-1.20.1-2.0.3.jar",
+            "MD5": "3877ad0db3d3f37f33bc28bbb0f83323"
+          }
+        },
+        {
+          "id": "io.github.a5b84.helditeminfo:held-item-info:1.5.0@jar",
+          "name": "Held Item Info",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67610,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/held-item-info-1.5.0.jar",
+            "MD5": "17007eb9349fd1bea3604d909ee353bc"
+          }
+        },
+        {
+          "id": "net.herdspanic:herdspanic:1.1.0@jar",
+          "name": "Herds Panic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 24464,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/herdspanic-1.1.0.jar",
+            "MD5": "f8d7ccc7f848f51fcc54f88b2f2128c0"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_hero_proof:5.2.1@jar",
+          "name": "Hero Proof",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23648,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/hero-proof-5.2.1.jar",
+            "MD5": "7aea0d9e2c9a762f48a44bae76a77452"
+          }
+        },
+        {
+          "id": "generated.fabricmod:highlight:2.0.1@jar",
+          "name": "Highlight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 289344,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/highlight-fabric-1.20-2.0.1.jar",
+            "MD5": "68994c25801da3596386a69c309dffd3"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:highlighter:1.1.9@jar",
+          "name": "Highlighter",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30635,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Highlighter-1.20.1-fabric-1.1.9.jar",
+            "MD5": "158dd6513d0b6fbfdcd4ba407f7d272d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:hopobetterruinedportal:1.3.7@jar",
+          "name": "Hopo Better Ruined Portal",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 342835,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7.jar",
+            "MD5": "ff881b5552c634b9ae8852eae14efe44"
+          }
+        },
+        {
+          "id": "generated.fabricmod:hopobetterunderwaterruins:1.1.4@jar",
+          "name": "Hopo Better Underwater Ruins",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 503198,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/HopoBetterUnderwaterRuins-[1.20-1.20.2]-1.1.4b.jar",
+            "MD5": "84c67107b8d19f5ff52f85ad972f13fe"
+          }
+        },
+        {
+          "id": "net.F53.HorseBuff:horsebuff:2.1.2@jar",
+          "name": "HorseBuff",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1425730,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/HorseBuff-1.20-2.1.2.jar",
+            "MD5": "bfe278bf10dc75552e4cd97713743fb6"
+          }
+        },
+        {
+          "id": "fuzs.horseexpert:horseexpert:8.1.1@jar",
+          "name": "Horse Expert",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 82355,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/HorseExpert-v8.1.1-1.20.1-Fabric.jar",
+            "MD5": "f65a03317289d61225c4cbe1b4694fca"
+          }
+        },
+        {
+          "id": "generated.fabricmod:horseinboat:1.1.4@jar",
+          "name": "HorseInBoat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 401434,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/horseinboat-fabric-1.1.4.jar",
+            "MD5": "c85d609d6a44a4da461af8ef07c2aa6d"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
+          "name": "Iceberg",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 119018,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.25.jar",
+            "MD5": "063fa399d8886abc0b1b612e968b8e0b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.3.3+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 242845,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.3.3+1.20.4.jar",
+            "MD5": "9057e10b1a666b5684d8eeee0b734d41"
+          }
+        },
+        {
           "id": "generated.fabricmod:immediatelyfast:1.5.1+1.20.4@jar",
           "name": "ImmediatelyFast",
           "type": "FabricMod",
@@ -343,6 +1603,26 @@
             "size": 242574,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
             "MD5": "351dca2ff05cbc00c9a32eb45976cb73"
+          }
+        },
+        {
+          "id": "generated.fabricmod:incendium:5.3.5@jar",
+          "name": "Incendium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4638945,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Incendium_1.20.x_v5.3.5.jar",
+            "MD5": "783705058e0b778ca1c80ac5cc8698f6"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.34+mc1.20.1@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 105359,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/indium-1.0.34+mc1.20.1.jar",
+            "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3"
           }
         },
         {
@@ -356,6 +1636,76 @@
           }
         },
         {
+          "id": "dev.plasticstraw.inf_music:infinite-music:0.3.0@jar",
+          "name": "Infinite Music",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 40141,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/infinite-music-0.3.0.jar",
+            "MD5": "d722b0843319fdb948721cccf92e53a8"
+          }
+        },
+        {
+          "id": "draylar.inmis:inmis:2.7.2-1.20.1@jar",
+          "name": "Inmis",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 147752,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/inmis-2.7.2-1.20.1.jar",
+            "MD5": "5293b0f45ae3574c8533d9269f93a41e"
+          }
+        },
+        {
+          "id": "net.inmisaddon:inmisaddon:1.0.4@jar",
+          "name": "InmisAddon",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 33068,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/inmisaddon-1.0.4.jar",
+            "MD5": "ef5ee9b78ada57b4f87daeb7b332856d"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:1.10.11@jar",
+          "name": "Inventory Profiles Next",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1449792,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/InventoryProfilesNext-fabric-1.20-1.10.11.jar",
+            "MD5": "e14b17efc9578d28f7c259d5c8514fc8"
+          }
+        },
+        {
+          "id": "me.pieking1215:invmove:0.8.4@jar",
+          "name": "InvMove",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 124710,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/InvMove-1.20-0.8.4-Fabric.jar",
+            "MD5": "afaa392904685061c677cd386565b057"
+          }
+        },
+        {
+          "id": "generated.fabricmod:invmovecompats:0.3.2@jar",
+          "name": "InvMoveCompats",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 102080,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/InvMoveCompats-1.20-0.3.2-Fabric.jar",
+            "MD5": "2e4cb16cea2e2a765bd138cbb58ffaa0"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.5+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2730664,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/iris-1.7.5+mc1.20.1.jar",
+            "MD5": "902528a82a843300ecf9027af9f8fb8c"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -363,6 +1713,46 @@
             "size": 2726899,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:itemborders:1.2.2@jar",
+          "name": "Item Borders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 22091,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ItemBorders-1.20.1-fabric-1.2.2.jar",
+            "MD5": "1767e390afcf19e8a64e6b26b3520e8b"
+          }
+        },
+        {
+          "id": "team.creative:itemphysiclite:1.6.5@jar",
+          "name": "ItemPhysicLite",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 22139,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ItemPhysicLite_FABRIC_v1.6.5_mc1.20.1.jar",
+            "MD5": "60863556a59c7b0a92f274914ff9fc22"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:jamlib:0.6.1+1.20.x@jar",
+          "name": "JamLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 62591,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/jamlib-0.6.1+1.20.x.jar",
+            "MD5": "c5753dcbdf41c03415cc73bc3e343835"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:jeed:1.20-2.2.2@jar",
+          "name": "Just Enough Effects Descriptions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 152014,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/jeed-1.20-2.2.2-fabric.jar",
+            "MD5": "1565032777e5eb2e52093919a9a60dfd"
           }
         },
         {
@@ -376,6 +1766,46 @@
           }
         },
         {
+          "id": "generated.fabricmod:jumpoverfences:fabric-1.20.1-1.3.1@jar",
+          "name": "Jumpoverfences",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 29556,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/jumpoverfences-fabric-1.20.1-1.3.1.jar",
+            "MD5": "a0210b3cb2daef1f809f38683bf640c2"
+          }
+        },
+        {
+          "id": "com.christofmeg:justenoughbreeding:1.5.0@jar",
+          "name": "Just Enough Breeding",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 93775,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/justenoughbreeding-fabric-1.20-1.20.1-1.5.0.jar",
+            "MD5": "caeaf987584fa67b07a35a868cf9f828"
+          }
+        },
+        {
+          "id": "generated.fabricmod:kaffees_dual_ride:1.1.0@jar",
+          "name": "Kaffee's Dual Ride",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 45431,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Kaffee's_Dual_Ride-mc1.20.1-1.1.0.jar",
+            "MD5": "f4a0e129b121bbc1bb9e0aea62d8d71c"
+          }
+        },
+        {
+          "id": "io.ejekta:kambrik:6.1.1+1.20.1@jar",
+          "name": "Kambrik",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 327998,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Kambrik-6.1.1+1.20.1-fabric.jar",
+            "MD5": "7494e938737edb83f2cca398b4d1aacc"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.8.1@jar",
           "name": "Konkrete",
           "type": "FabricMod",
@@ -383,6 +1813,26 @@
             "size": 892067,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
+          }
+        },
+        {
+          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.3@jar",
+          "name": "Krypton",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 185895,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/krypton-0.2.3.jar",
+            "MD5": "3bf353c1ab576b57c003109c079e2ec8"
+          }
+        },
+        {
+          "id": "dev.lambdaurora:lambdynlights:2.3.2+1.20.1@jar",
+          "name": "LambDynamicLights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 573183,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/lambdynamiclights-2.3.2+1.20.1.jar",
+            "MD5": "9e931a5331bfe8cee677a413b8aea776"
           }
         },
         {
@@ -396,6 +1846,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:languagereload:1.7.2+1.20.1@jar",
+          "name": "Language Reload",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 72149,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/language-reload-1.7.2+1.20.1.jar",
+            "MD5": "d2a55adc5e634392aa0682fa336fffb3"
+          }
+        },
+        {
           "id": "io.wispforest:lavender:0.1.9+1.20@jar",
           "name": "Lavender",
           "type": "FabricMod",
@@ -403,6 +1863,96 @@
             "size": 523368,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/lavender-0.1.9+1.20.jar",
             "MD5": "cc6ece9d8d69bcd7c32ee6ff28825adb"
+          }
+        },
+        {
+          "id": "nordmods.leafmealone:leafmealone:1.0.1@jar",
+          "name": "Leaf Me Alone",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26528,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/leafmealone-1.0.1.jar",
+            "MD5": "485c9d303f711b540963d4d6e5beda74"
+          }
+        },
+        {
+          "id": "fuzs.leavesbegone:leavesbegone:8.0.0@jar",
+          "name": "Leaves Be Gone",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 46694,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+            "MD5": "64d9e209b3017183b2e13434d999fe37"
+          }
+        },
+        {
+          "id": "de.cristelknight:doapi:1.2.15@jar",
+          "name": "[Let's Do] API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1702813,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/letsdo-API-fabric-1.2.15-fabric.jar",
+            "MD5": "572b3414c6e93d6679f6e89a2ae49995"
+          }
+        },
+        {
+          "id": "net.satisfy:bakery:1.1.15@jar",
+          "name": "[Let's Do] Bakery",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1529233,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/letsdo-bakery-fabric-1.1.15.jar",
+            "MD5": "b5e456b13c358e448cb458567be2399e"
+          }
+        },
+        {
+          "id": "net.satisfy:candlelight:1.2.13@jar",
+          "name": "[Let's Do] Candlelight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2607855,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/letsdo-candlelight-fabric-1.2.13.jar",
+            "MD5": "708b061c75b67e7970f69dfd365866d1"
+          }
+        },
+        {
+          "id": "satisfy.herbalbrews:herbalbrews:1.0.8.1@jar",
+          "name": "[Let's Do] HerbalBrews",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 667567,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/letsdo-herbalbrews-fabric-1.0.8.1.jar",
+            "MD5": "48a99852787bfdfeda7b8827448812b6"
+          }
+        },
+        {
+          "id": "net.satisfy:meadow:1.3.19@jar",
+          "name": "[Let's Do] Meadow",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2645493,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/letsdo-meadow-fabric-1.3.19.jar",
+            "MD5": "b99a28ee1e968b5d7676b18b9f6ce432"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc:libipn:4.0.2@jar",
+          "name": "LibIPN",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 702814,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/libIPN-fabric-1.20-4.0.2.jar",
+            "MD5": "8e2cc58f5a9149549f544d4a27224646"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.2@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 645865,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
+            "MD5": "026ca4110d57f16f701b400ad5d2ca26"
           }
         },
         {
@@ -416,6 +1966,16 @@
           }
         },
         {
+          "id": "dev.worldgen:lithostitched:1.3.5@jar",
+          "name": "Lithostitched",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 463875,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/lithostitched-fabric-1.20.1-1.3.9.jar",
+            "MD5": "c96d1fb0e93b742423c23b31fa206444"
+          }
+        },
+        {
           "id": "com.andersmmg:lockandblock:0.9.0@jar",
           "name": "Lock & Block",
           "type": "FabricMod",
@@ -423,6 +1983,86 @@
             "size": 405450,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/LockAndBlock-0.9.0.jar",
             "MD5": "7eed3483774f6ad902795b4860d4d95d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:logbegone:1.0.8@jar",
+          "name": "Log Begone",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 126944,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Log-Begone-Fabric-1.20.1-1.0.8.jar",
+            "MD5": "18bb9fa14cb9b94750251bb173a7fd50"
+          }
+        },
+        {
+          "id": "net.tschipcraft:make_bubbles_pop:0.3.0-fabric@jar",
+          "name": "Make Bubbles Pop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27579,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+            "MD5": "dfe43062ba0ba42f7e44a5ae83c0c6f8"
+          }
+        },
+        {
+          "id": "fi.dy.masa:malilib:0.16.3@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 545403,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/malilib-fabric-1.20.1-0.16.3.jar",
+            "MD5": "007a02b4cbca762018d2a56237d36631"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_mastercutter:1.1@jar",
+          "name": "MasterCutter",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 330607,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mastercutter-1.1.jar",
+            "MD5": "26362e88f83fea4a750d6c0bce9c60ee"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mavapi:1.1.4@jar",
+          "name": "More Axolotl Variants API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 592470,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mavapi-1.1.4-mc1.20.1.jar",
+            "MD5": "4f155b59b33081a94e0198c96727dd16"
+          }
+        },
+        {
+          "id": "fabric.io.github.akashiikun:mavm:1.2.6@jar",
+          "name": "More Axolotl Variants Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 792700,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mavm-1.2.6-mc1.20.1.jar",
+            "MD5": "14b2125d2e8253c913e3fb1b5d85aa4e"
+          }
+        },
+        {
+          "id": "plugway.mc.music.disc.dj:mcmddj:1.0.2@jar",
+          "name": "Mc Music Disc Dj",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23949294,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mc-music-disc-dj-1.0.2-1.20.1.jar",
+            "MD5": "e1210309941d4cb6ceee16b86d29b10e"
+          }
+        },
+        {
+          "id": "net.medievalweapons:medievalweapons:1.4.8@jar",
+          "name": "Medieval Weapons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 794388,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/medievalweapons-1.4.8.jar",
+            "MD5": "f17f2ed459a4f917fbdfa4d4d0467249"
           }
         },
         {
@@ -446,6 +2086,76 @@
           }
         },
         {
+          "id": "com.finndog:mes:1.3.4-1.20-fabric@jar",
+          "name": "Moog's End Structures",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1911628,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mes-1.3.4-1.20-fabric.jar",
+            "MD5": "6228e12ec9cdc5af7ebed63343a273ad"
+          }
+        },
+        {
+          "id": "eu.midnightdust.fabric.core:midnightlib:1.4.1@jar",
+          "name": "MidnightLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57229,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/midnightlib-fabric-1.4.1.1.jar",
+            "MD5": "2c178ef9cc3eb44e3e39df1ce7d1da71"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mixintrace:1.1.1+1.17@jar",
+          "name": "MixinTrace",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 36039,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mixintrace-1.1.1+1.17.jar",
+            "MD5": "25673336ece740d8127ae7525bc0cd4f"
+          }
+        },
+        {
+          "id": "net.pcal:mobfilter:0.4.2+1.20.1@jar",
+          "name": "Mob Filter",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 349802,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mobfilter-0.4.2+1.20.1.jar",
+            "MD5": "f45f5682045756dd20f1361f42dcfd96"
+          }
+        },
+        {
+          "id": "net.barribob.parkour:mobs_attempt_parkour:0.5.2-1.20@jar",
+          "name": "Mobs Attempt Parkour",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 156525,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mobs-attempt-parkour-0.5.2-1.20.jar",
+            "MD5": "c66f774c06afc6ae098dbc993d6732ce"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:modelfix:1.15@jar",
+          "name": "Model Gap Fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 65491,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/modelfix-1.15-fabric.jar",
+            "MD5": "5503cf88c4ecb768330655258fa9b388"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.19.7+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 648454,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/modernfix-fabric-5.19.7+mc1.20.1.jar",
+            "MD5": "63ea31e71b1947ec4d2ed322b7130283"
+          }
+        },
+        {
           "id": "org.embeddedt:modernfix:5.24.4+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "FabricMod",
@@ -466,6 +2176,66 @@
           }
         },
         {
+          "id": "generated.fabricmod:monsters_in_the_closet:1.0.3+1.20@jar",
+          "name": "Monsters in the Closet",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12691,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/monsters-in-the-closet-1.0.3+1.20.jar",
+            "MD5": "6d15257dad09fb7c6e06ec158338693e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.39@jar",
+          "name": "Moonlight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1188872,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/moonlight-1.20-2.13.39-fabric.jar",
+            "MD5": "b5eed8a7622ec2b66dca0d50ace40e22"
+          }
+        },
+        {
+          "id": "com.natamus:mooshroomtweaks:3.5@jar",
+          "name": "Mooshroom Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27833,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/mooshroomtweaks-1.20.1-3.5.jar",
+            "MD5": "90a859953168edae9ed7b2e2f234645f"
+          }
+        },
+        {
+          "id": "net.masik.morearmortrims:more_armor_trims:1.4.1-1.20.1@jar",
+          "name": "More Armor Trims",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 240400,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/morearmortrims-1.4.1-1.20.1.jar",
+            "MD5": "418e79672c589c0b33db51b217db6d2f"
+          }
+        },
+        {
+          "id": "ca.fxco:moreculling:1.20.4-0.24.0@jar",
+          "name": "More Culling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 272851,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
+            "MD5": "109804ad4b9f14a549f02bf26c98ac44"
+          }
+        },
+        {
+          "id": "io.github.moremcmeta.moremcmeta.fabric.impl:moremcmeta:1.20.1-4.4.7@jar",
+          "name": "MoreMcmeta",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 461792,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/moremcmeta-1.20.1-4.4.7-fabric.jar",
+            "MD5": "91f8ec2f0b28818acd3684e657127f11"
+          }
+        },
+        {
           "id": "yalter.mousetweaks:mousetweaks:2.26@jar",
           "name": "Mouse Tweaks",
           "type": "FabricMod",
@@ -476,6 +2246,136 @@
           }
         },
         {
+          "id": "dev.imb11.loader:mru:1.0.4+1.20.1+fabric@jar",
+          "name": "Mineblock's Repeated Utilities",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104277,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/MRU-1.0.4+1.20.1+fabric.jar",
+            "MD5": "d79bfcbc7d9dc74c632a36c120f11182"
+          }
+        },
+        {
+          "id": "generated.fabricmod:narrus_yeetus:1.1.0@jar",
+          "name": "Narrus Yeetus",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 99924,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/NarrusYeetus-1.1.0.jar",
+            "MD5": "25cd36a8068624e848c81e603df9bf9d"
+          }
+        },
+        {
+          "id": "com.starfish_studios:naturalist:4.0.3@jar",
+          "name": "Naturalist",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4310075,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/naturalist-fabric-4.0.3-1.20.1.jar",
+            "MD5": "5313f863f10d2fd2abaa30c18d3c7b02"
+          }
+        },
+        {
+          "id": "vazkii.neat:neat:1.20.1-41-FABRIC@jar",
+          "name": "Neat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 235341,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Neat-1.20.1-41-FABRIC.jar",
+            "MD5": "e2ccc0457fc6b05d8d3b73f65596ecb6"
+          }
+        },
+        {
+          "id": "com.scouter:netherdepthsupgrade:fabric-3.1.6-1.20@jar",
+          "name": "Nether Depths Upgrade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 609735,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/netherdepthsupgrade-fabric-3.1.6-1.20.jar",
+            "MD5": "4ecd0eb126a1ebf6d5c5648910763cdc"
+          }
+        },
+        {
+          "id": "com.jerrylu086:netherite_horse_armor:1.20.1-1.0.4@jar",
+          "name": "Netherite Horse Armor",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 147416,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/netherite_horse_armor-fabric-1.20.1-1.0.4.jar",
+            "MD5": "818c7ff9d3efcc4b35f41456ff751d7e"
+          }
+        },
+        {
+          "id": "net.blay09.mods:netherportalfix:13.0.1@jar",
+          "name": "NetherPortalFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 216019,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/netherportalfix-fabric-1.20-13.0.1.jar",
+            "MD5": "6ad6d5a15d80537a58ceebaa8eecb714"
+          }
+        },
+        {
+          "id": "net.jmb19905:niftycarts:20.1.3@jar",
+          "name": "NiftyCarts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 220927,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/niftycarts-20.1.3.jar",
+            "MD5": "97e33b9980026e8ca265fa80e739ee37"
+          }
+        },
+        {
+          "id": "generated.fabricmod:no-telemetry:1.8.0@jar",
+          "name": "No Telemetry",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 89096,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/no-telemetry-1.8.0.jar",
+            "MD5": "0cb4e0b5e24c0a4506f212ebb687a706"
+          }
+        },
+        {
+          "id": "com.natamus:noanimaltemptdelay:1.2@jar",
+          "name": "No Animal Tempt Delay",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17020,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/noanimaltemptdelay-1.20.1-1.2.jar",
+            "MD5": "f33f79339f74bda9814744ce2ef62e86"
+          }
+        },
+        {
+          "id": "com.aizistral:nochatreports:1.20.1-v2.2.2@jar",
+          "name": "No Chat Reports",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 619812,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+            "MD5": "62ebb770ad9e08008abf6df50a6a1aa7"
+          }
+        },
+        {
+          "id": "it.hurts.octostudios:nerb:0.4.1@jar",
+          "name": "Not Enough Recipe Book",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21366,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Not%20Enough%20Recipe%20Book-FABRIC-0.4.1+1.20.1.jar",
+            "MD5": "3664206f700cbabaa599d45823989fd2"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.8.2@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 433765,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/notenoughanimations-fabric-1.8.2-mc1.20.1.jar",
+            "MD5": "9b4148d124483eefea92c4439077684f"
+          }
+        },
+        {
           "id": "generated.fabricmod:nullscape:1.2.7@jar",
           "name": "Nullscape",
           "type": "FabricMod",
@@ -483,6 +2383,36 @@
             "size": 399214,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Nullscape_1.20.x_v1.2.8.jar",
             "MD5": "691a4526239d6b2b2525b40f209ec8a3"
+          }
+        },
+        {
+          "id": "com.nyfaria:nyfsspiders:2.1.1@jar",
+          "name": "Nyf's Spiders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 172356,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/nyfsspiders-fabric-1.20.1-2.1.1.jar",
+            "MD5": "17af1481adffaac2e7b7f169c4d9285d"
+          }
+        },
+        {
+          "id": "it.hurts.octostudios:octolib:0.4.2@jar",
+          "name": "OctoLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 400199,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/OctoLib-FABRIC-0.4.2+1.20.1.jar",
+            "MD5": "b6f8b519f8672ab2ea8b445c276201d4"
+          }
+        },
+        {
+          "id": "opekope2.optigui:optigui:2.3.0-beta.6+1.20@jar",
+          "name": "OptiGUI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 623694,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/optigui-2.3.0-beta.6+1.20.jar",
+            "MD5": "c713de130a1f75441cff98462f2a3eeb"
           }
         },
         {
@@ -516,6 +2446,336 @@
           }
         },
         {
+          "id": "me.juancarloscp52.panorama_screen:panorama_screens:1.0+fabric+mc1.20@jar",
+          "name": "Panorama Screens",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1226467,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/panorama_screens-1.0+fabric+mc1.20.jar",
+            "MD5": "430a9c791805cc31ab2611747e7a50b7"
+          }
+        },
+        {
+          "id": "me.fzzyhmstrs:particle_core:0.2.5+1.20.1@jar",
+          "name": "Particle Core",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 94842,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/particle_core-0.2.5+1.20.1.jar",
+            "MD5": "7c5afe6e11a3522f361d6cb90fb01968"
+          }
+        },
+        {
+          "id": "com.natamus:passiveshield:3.6@jar",
+          "name": "Passive Shield",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 34349,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/passiveshield-1.20.1-3.6.jar",
+            "MD5": "1a879927ad04d0600a124bb0995b6cb2"
+          }
+        },
+        {
+          "id": "generated.fabricmod:pathunderfencegates:1.4.0+mc1.20.x@jar",
+          "name": "Path Under Fence Gates",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 187086,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/pathunderfencegates-1.4.0+mc1.20.x.jar",
+            "MD5": "daa5a4d638f0b277d5c147e4b5581263"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:paxi:1.20-Fabric-4.0@jar",
+          "name": "Paxi",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 225237,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Paxi-1.20-Fabric-4.0.jar",
+            "MD5": "37fdc7868c654b0848afbf2d3a5918e5"
+          }
+        },
+        {
+          "id": "generated.fabricmod:philips:Ruins1.20.1-4.6[Fabric]@jar",
+          "name": "Philips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1570086,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Philips-Ruins1.20.1-4.6[Fabric].jar",
+            "MD5": "e6fbe5b483b4c8b2616a3062084ea2be"
+          }
+        },
+        {
+          "id": "dev.kosmx.playerAnim:player-animator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 181008,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "MD5": "03dfb09aabe5c2c8167568cd5c32666b"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:polymorph:0.49.8+1.20.1@jar",
+          "name": "Polymorph",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 680382,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/polymorph-fabric-0.49.8+1.20.1.jar",
+            "MD5": "de803711d956e971633a3bce33c901ae"
+          }
+        },
+        {
+          "id": "eu.ha3:presencefootsteps:1.10.1+1.20.1@jar",
+          "name": "Presence Footsteps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5664952,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/PresenceFootsteps-1.10.1+1.20.1.jar",
+            "MD5": "4d9d64890b7b90641ce6be7d0c9cd3c6"
+          }
+        },
+        {
+          "id": "generated.fabricmod:prism:1.0.5@jar",
+          "name": "Prism",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57257,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.5.jar",
+            "MD5": "2eed6d81c1b72c75646d33b1b5d9dcfe"
+          }
+        },
+        {
+          "id": "net.purejosh:purediscstrickytrials:1.0.1@jar",
+          "name": "Pure Discs - Tricky Trials",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18761418,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/PureDiscsTrickyTrials-v1.0.1-1.20.1-Fabric.jar",
+            "MD5": "f37b95bc4b79b939b5462b943c588197"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.25@jar",
+          "name": "Puzzles Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 980317,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar",
+            "MD5": "49793f101337dcf4eaa05bf7bb63cd5f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:reeses-sodium-options:1.7.2+mc1.20.1-build.101@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77304,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+            "MD5": "0db2ef332dd00de8c64e34f192317118"
+          }
+        },
+        {
+          "id": "io.github.uhq_games:regions_unexplored:0.5.6+1.20.1@jar",
+          "name": "Regions Unexplored",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5689530,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/RegionsUnexploredFabric-0.5.6+1.20.1.jar",
+            "MD5": "575daa5b04f5b1888621b456857accdf"
+          }
+        },
+        {
+          "id": "com.telepathicgrunt.repurposedstructures:repurposed_structures:7.1.15+1.20.1-fabric@jar",
+          "name": "Repurposed Structures",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8086780,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/repurposed_structures-7.1.15+1.20.1-fabric.jar",
+            "MD5": "94f856c29af48d1e9a67c4154165d146"
+          }
+        },
+        {
+          "id": "com.teamresourceful.resourcefulconfig.web.server:resourcefulconfig:2.1.2@jar",
+          "name": "Resourcefulconfig",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 134793,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+            "MD5": "84b1427c5d4cfd30e54c20ba4120e8d3"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
+          "name": "Resourceful Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 431646,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/resourcefullib-fabric-1.20.1-2.1.29.jar",
+            "MD5": "9d4e1e80304edc8a672d0173c46c7514"
+          }
+        },
+        {
+          "id": "fuzs.resourcepackoverrides:resourcepackoverrides:8.0.3@jar",
+          "name": "Resource Pack Overrides",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77659,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
+            "MD5": "05fc917ce7e8f45489285cde5298320f"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:rightclickharvest:3.2.3+1.19.x-1.20.1-fabric@jar",
+          "name": "Right Click Harvest",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 226850,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar",
+            "MD5": "d59fecea4b2c68699956762e8d983c43"
+          }
+        },
+        {
+          "id": "me.shedaniel.rei.impl.init:roughlyenoughitems:12.1.785@jar",
+          "name": "Roughly Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2443883,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/RoughlyEnoughItems-12.1.785-fabric.jar",
+            "MD5": "f4c4a3d57e68c3fc22da73b341c7fa7e"
+          }
+        },
+        {
+          "id": "com.natamus:scaffoldingdropsnearby:3.3@jar",
+          "name": "Scaffolding Drops Nearby",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26118,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/scaffoldingdropsnearby-1.20.1-3.3.jar",
+            "MD5": "3bfef0addfec0e414cebc7081c35cc17"
+          }
+        },
+        {
+          "id": "me.chrr:scribble:1.4.2@jar",
+          "name": "Scribble",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 149152,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Scribble-1.4.2+mc1.20.1-fabric.jar",
+            "MD5": "0b6a62d43256188de7edcba7fd990f1b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:searchables:1.0.3@jar",
+          "name": "Searchables",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80283,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Searchables-fabric-1.20.1-1.0.3.jar",
+            "MD5": "57cbf00f9bb837538a3a694cad095a11"
+          }
+        },
+        {
+          "id": "net.zekk051:securecrops:1.0.4+1.20@jar",
+          "name": "Secure Crops",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18086,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/securecrops-1.0.4+1.20.jar",
+            "MD5": "71bf8a7c6679f4c38442bb894e95945b"
+          }
+        },
+        {
+          "id": "com.github.exopandora:shouldersurfing:4.6.2@jar",
+          "name": "Shoulder Surfing Reloaded",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 193591,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/ShoulderSurfing-Fabric-1.20.1-4.6.2.jar",
+            "MD5": "19e714e366a6e69f5ab4d7c03cb68405"
+          }
+        },
+        {
+          "id": "com.misterpemodder:shulkerboxtooltip:4.0.4+1.20.1@jar",
+          "name": "Shulker Box Tooltip",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1215693,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
+            "MD5": "f3dbda55b10626725456665abd633e93"
+          }
+        },
+        {
+          "id": "com.natamus:shulkerdropstwo:3.4@jar",
+          "name": "Shulker Drops Two",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 31994,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/shulkerdropstwo-1.20.1-3.4.jar",
+            "MD5": "8a783a951aaff40366b67a9e5d6d20b6"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:shut_up_gl_error:1.0.0@jar",
+          "name": "Shut Up GL Error",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120000,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Shut%20Up%20GL%20Error-fabric-1.20.1-1.0.0.jar",
+            "MD5": "40ea8b547c22d7a092ba9a89abb23ff5"
+          }
+        },
+        {
+          "id": "com.armorhud:simple-armor-hud:1.20.2-1.3.2@jar",
+          "name": "Simple armor hud",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18923,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/simple-armor-hud-1.20.2-1.3.2.jar",
+            "MD5": "9f58bc3de0c64d374edf870eeda320e0"
+          }
+        },
+        {
+          "id": "com.soradgaming:simplehudenhanced:4.7.3@jar",
+          "name": "Simple Hud Enhanced",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1177741,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/simple-hud-enhanced+1.20-1.20.1-4.7.3.jar",
+            "MD5": "3b708d78f3bc908884579ecc88975bad"
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:sit:1.20.1-27@jar",
+          "name": "Sit",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 64238,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/sit-1.20.1-27.jar",
+            "MD5": "cb59bea8fdbd7a6f17108b83f4570365"
+          }
+        },
+        {
+          "id": "com.natamus:skeletonhorsespawn:4.0@jar",
+          "name": "Skeleton Horse Spawn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 33422,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/skeletonhorsespawn-1.20.1-4.0.jar",
+            "MD5": "c76242c78db8ccb4571a1def8bbdf965"
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.7.4@jar",
+          "name": "3d-Skin-Layers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 480015,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/skinlayers3d-fabric-1.7.4-mc1.20.1.jar",
+            "MD5": "3b847e15a1342937733226036b6bc583"
+          }
+        },
+        {
           "id": "net.lionarius:skinrestorer:2.4.3+1.20-fabric@jar",
           "name": "SkinRestorer",
           "type": "FabricMod",
@@ -523,6 +2783,56 @@
             "size": 190082,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/skinrestorer-2.4.3+1.20-fabric.jar",
             "MD5": "32f9c74c3bc245a3b519d022e9e986ec"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:smarterfarmers:1.20-2.1.0@jar",
+          "name": "Smarter Farmers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 218224,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/smarterfarmers-1.20-2.1.0-fabric.jar",
+            "MD5": "4029ee7ae1d33e7901441b835a305916"
+          }
+        },
+        {
+          "id": "generated.fabricmod:smoothmenu:1.1.0@jar",
+          "name": "Smooth Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 430417,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/smoothmenu-1.1.0.jar",
+            "MD5": "f2b7a71591c7a87f7d3d427fc63a6118"
+          }
+        },
+        {
+          "id": "net.uraneptus:snowpig:3.0.1@jar",
+          "name": "Snow Pig",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6641872,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/snow-pig-3.0.1.jar",
+            "MD5": "cf01359604c8c3ed5f43628a0a8c35ce"
+          }
+        },
+        {
+          "id": "dev.imb11:snowundertrees:2.5.4+1.20.1@jar",
+          "name": "Snow Under Trees",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2332826,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/SnowUnderTrees-2.5.4+1.20.1.jar",
+            "MD5": "456cf2766ed8d86195d3f52baef6994d"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.4+mc1.20.1-build.115@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 385539,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/sodium-extra-0.5.4+mc1.20.1-build.115.jar",
+            "MD5": "9eaed09a486eee9a1326de5dd80faa0a"
           }
         },
         {
@@ -536,6 +2846,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 968419,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -543,6 +2863,16 @@
             "size": 971552,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "rynnavinx.sspb:sspb:3.4.1@jar",
+          "name": "Sodium Shadowy Path Blocks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 55547,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/sodium-shadowy-path-blocks-3.4.1.jar",
+            "MD5": "03b5eab6bbf432633564a9cc8f078cc2"
           }
         },
         {
@@ -566,6 +2896,16 @@
           }
         },
         {
+          "id": "it.crystalnest:soul_fire_d:4.0.6@jar",
+          "name": "Soul Fire'd",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 254864,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/soul-fire-d-fabric-1.20.1-4.0.6.jar",
+            "MD5": "0939271cbda9fcf34a37bd9d1bd8b479"
+          }
+        },
+        {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.15@jar",
           "name": "Sound Physics Remastered",
           "type": "FabricMod",
@@ -573,6 +2913,26 @@
             "size": 203126,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/sound-physics-remastered-fabric-1.20.1-1.4.15.jar",
             "MD5": "fc959b9db4107f910802fb8732df3032"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.8@jar",
+          "name": "Sound Physics Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 195673,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/sound-physics-remastered-fabric-1.20.1-1.4.8.jar",
+            "MD5": "0a7627607b9285d870ff80c0ec212104"
+          }
+        },
+        {
+          "id": "net.tschipcraft:spawnanimations:1.10+mod@jar",
+          "name": "Spawn Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 158420,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/spawnanimations-v1.10-mc1.17x-1.21x-mod.jar",
+            "MD5": "a89a57bfc7f581620de1f26402788dce"
           }
         },
         {
@@ -586,6 +2946,156 @@
           }
         },
         {
+          "id": "com.nettakrim:spyglass_astronomy:1.0.15-mc1.20.1@jar",
+          "name": "Spyglass Astronomy",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 279469,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/spyglass_astronomy-1.0.15-mc1.20.1.jar",
+            "MD5": "ef66fa1a1381ae1040f8d676b7d451cb"
+          }
+        },
+        {
+          "id": "dev.booky.stackdeobf:stackdeobfuscator:1.4.3+08e71cc@jar",
+          "name": "StackDeobfuscator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 321213,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+            "MD5": "8dbb0c4c8c1c9f00faeb68fa74ee6d27"
+          }
+        },
+        {
+          "id": "generated.fabricmod:starlight:1.1.2+fabric.dbc156f@jar",
+          "name": "Starlight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 127368,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/starlight-1.1.2+fabric.dbc156f.jar",
+            "MD5": "a0b391bf55891502c2074bd078bb5899"
+          }
+        },
+        {
+          "id": "io.github.steveplays28:stevesrealisticsleep:1.11.2+mc1.20-1.20.1@jar",
+          "name": "Steve's Realistic Sleep",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 354986,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/stevesrealisticsleep-fabric-1.11.2+mc1.20-1.20.1.jar",
+            "MD5": "6a1d6ceaae090f4e1c4aff3b5c71f799"
+          }
+        },
+        {
+          "id": "com.faboslav:structurify:1.0.11@jar",
+          "name": "Structurify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 598827,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/structurify-fabric-mc1.20.1-1.0.11.jar",
+            "MD5": "59f67d170684f844e5588bb873c567ff"
+          }
+        },
+        {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8+a@jar",
+          "name": "SuperMartijn642's Config Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 207990,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+            "MD5": "b8e27e4c98a70e3034774f5b31a3044e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.10@jar",
+          "name": "Supplementaries",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17875389,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/supplementaries-1.20-3.1.10-fabric.jar",
+            "MD5": "10d19370044461daf8124b4721679cfc"
+          }
+        },
+        {
+          "id": "com.natamus:surfacemushrooms:3.5@jar",
+          "name": "Surface Mushrooms",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21766,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/surfacemushrooms-1.20.1-3.5.jar",
+            "MD5": "1ef00d0125ec23e230ac77800ab20f81"
+          }
+        },
+        {
+          "id": "io.github.thecsdev:tcdcommons:3.12.3+fabric-1.20.1@jar",
+          "name": "TCD Commons API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 856154,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/tcdcommons-3.12.3+fabric-1.20.1.jar",
+            "MD5": "83ad27f7cf3f7e5f58d1c8142cdf47a4"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.7@jar",
+          "name": "TerraBlender",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 322358,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/TerraBlender-fabric-1.20.1-3.0.1.7.jar",
+            "MD5": "524735cf94fa6b7fd329656524dcf53a"
+          }
+        },
+        {
+          "id": "raccoonman.terrablenderfix:terrablenderfix:0.0.1@jar",
+          "name": "TerraBlenderFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14980,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/terrablenderfix-fabric-1.20.1-0.0.1.jar",
+            "MD5": "996cf8cd3b2f4ed2e88e3820f8b27097"
+          }
+        },
+        {
+          "id": "com.lion:graveyard:3.0@jar",
+          "name": "The Graveyard",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10272185,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+            "MD5": "9263a6e1ca3b9c955b14278e3a11e4bd"
+          }
+        },
+        {
+          "id": "com.github.getchoo.smoothboot:threadtweak:1.20.2-0.1.1@jar",
+          "name": "ThreadTweak",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 144848,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
+          }
+        },
+        {
+          "id": "net.darkhax:tipsmod:12.1.8@jar",
+          "name": "Tips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 116739,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Tips-Fabric-1.20.1-12.1.8.jar",
+            "MD5": "848af2da42378d6686b80e585e89c956"
+          }
+        },
+        {
+          "id": "net.teamremastered:tlc:1.0.1@jar",
+          "name": "The Lost Castle",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 719244,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/tlc-fabric-1.0.1-1.20.X.jar",
+            "MD5": "06ea1cb6f0fab7c2b777a0f3a474d40c"
+          }
+        },
+        {
           "id": "com.tom.storagemod:toms_storage:1.7.1@jar",
           "name": "Tom's Simple Storage Mod",
           "type": "FabricMod",
@@ -593,6 +3103,106 @@
             "size": 1537265,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/toms_storage_fabric-1.20-1.7.1.jar",
             "MD5": "6568605747a2290ece711a337fad6d52"
+          }
+        },
+        {
+          "id": "it.crystalnest:torch_hit:7.0.0@jar",
+          "name": "Torch hit!",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1236071,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/torch-hit-fabric-1.20.1-7.0.0.jar",
+            "MD5": "c0ead290d8b3cb4940d6692388f7bdca"
+          }
+        },
+        {
+          "id": "com.natamus:treeharvester:9.1@jar",
+          "name": "Tree Harvester",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 85932,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/treeharvester-1.20.1-9.1.jar",
+            "MD5": "5eb545033d4c95bcad95e690f8c7618e"
+          }
+        },
+        {
+          "id": "dev.emi:trinkets:3.7.2@jar",
+          "name": "Trinkets",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 238532,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/trinkets-3.7.2.jar",
+            "MD5": "c010ccc2015e5b1f3cb1994694ecc512"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_true_ending:1-v1.1.0c@jar",
+          "name": "True Ending: Ender Dragon Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5525883,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/tru.e-ending-v1.1.0c.jar",
+            "MD5": "c83ccd876af0ac3cac72d2880b7c1a18"
+          }
+        },
+        {
+          "id": "fuzs.universalbonemeal:universalbonemeal:8.0.1@jar",
+          "name": "Universal Bone Meal",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80819,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "fc31288a24cab8842899967699365811"
+          }
+        },
+        {
+          "id": "com.ishland.uwrad:unsafe-world-random-access-detector:1.1.0@jar",
+          "name": "Unsafe World Random Access Detector",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20797,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/unsafe-world-random-access-detector-1.1.0.jar",
+            "MD5": "b2f6d16c4be664acf2f46cd0423e0261"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:veinmining:1.5.0+1.20.1@jar",
+          "name": "Vein Mining",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 460079,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/veinmining-fabric-1.5.0+1.20.1.jar",
+            "MD5": "4d920fe395fb09be67b083c3ab2aab2d"
+          }
+        },
+        {
+          "id": "com.natamus:villagernames:8.1@jar",
+          "name": "Villager Names",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 55931,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/villagernames-1.20.1-8.1.jar",
+            "MD5": "8a2941d06d39ddbd9510ed30430632a7"
+          }
+        },
+        {
+          "id": "com.faboslav:villagesandpillages:1.0.2@jar",
+          "name": "Villages & Pillages",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 241108,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/villagesandpillages-fabric-mc1.20.1-1.0.2.jar",
+            "MD5": "1c342634705e744382270a6670a8afce"
+          }
+        },
+        {
+          "id": "visuality:visuality:0.7.1+1.20@jar",
+          "name": "Visuality",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67302,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/visuality-0.7.1+1.20.jar",
+            "MD5": "14aaa65078fcff3af29fef4e1d7d2161"
           }
         },
         {
@@ -626,6 +3236,46 @@
           }
         },
         {
+          "id": "dev.tr7zw:waveycapes:1.4.13@jar",
+          "name": "WaveyCapes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 365066,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/waveycapes-fabric-1.4.13-mc1.20.1.jar",
+            "MD5": "de6f751fd851d8b5da64479a6b43e8ef"
+          }
+        },
+        {
+          "id": "com.natamus:weakerspiderwebs:3.7@jar",
+          "name": "Weaker Spiderwebs",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 33967,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/weakerspiderwebs-1.20.1-3.7.jar",
+            "MD5": "d0e346d4552065e5728e23fbe052c9be"
+          }
+        },
+        {
+          "id": "generated.fabricmod:weaponmaster_ydm:fabric-1.20.1-4.2.6@jar",
+          "name": "Weaponmaster_ydm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 316932,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/weaponmaster_ydm-fabric-1.20.1-4.2.6.jar",
+            "MD5": "a839f323c8a57ec770a3eb40109af9e8"
+          }
+        },
+        {
+          "id": "net.darkhax:whatthebucket:11.0.3@jar",
+          "name": "WhatTheBucket",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6716,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/WhatTheBucket-Fabric-1.20.1-11.0.3.jar",
+            "MD5": "bff233e99902fe4e60a66b05a73e4bed"
+          }
+        },
+        {
           "id": "de.maxhenkel:wiretap:1.20.1-1.0.3@jar",
           "name": "Wiretap",
           "type": "FabricMod",
@@ -633,6 +3283,26 @@
             "size": 314034,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/wiretap-1.20.1-1.0.3.jar",
             "MD5": "363e5e8b6b5bf6ece3b1f4c5639d6ac8"
+          }
+        },
+        {
+          "id": "me.khajiitos:worldplaytime:1.2.3@jar",
+          "name": "World Play Time",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83258,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/worldplaytime-1.2.3-1.20.x-FABRIC.jar",
+            "MD5": "adff66f80fc74aedb79ab03b79e8a651"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:24.6.1@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1637571,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Xaeros_Minimap_24.6.1_Fabric_1.20.jar",
+            "MD5": "d91e34db6427c98f5e564579fea69ef1"
           }
         },
         {
@@ -656,6 +3326,16 @@
           }
         },
         {
+          "id": "xaero.map:xaeroworldmap:1.39.2@jar",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 950403,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/XaerosWorldMap_1.39.2_Fabric_1.20.jar",
+            "MD5": "56fd9ece31a86eb92b34f2285ff02a9f"
+          }
+        },
+        {
           "id": "xerca.xercamusic:xercamusic:fabric-1.20.1-1.0.2@jar",
           "name": "Music Maker Mod",
           "type": "FabricMod",
@@ -666,6 +3346,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:yeetusexperimentus:2.3.0-build.4+mc1.20.1@jar",
+          "name": "Yeetus Experimentus",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 568210,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YeetusExperimentus-Fabric-2.3.0-build.4+mc1.20.1.jar",
+            "MD5": "d3b294220758eb62af51b6cb6bf89c3f"
+          }
+        },
+        {
           "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.6+1.20.1-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
@@ -673,6 +3363,166 @@
             "size": 1294234,
             "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
             "MD5": "b6960b2defbf8cb1b983cffd261089ba"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.2+1.20.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1106630,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar",
+            "MD5": "976f29a1a0754edf18c349cf644f9f78"
+          }
+        },
+        {
+          "id": "generated.fabricmod:yosbr:0.1.2@jar",
+          "name": "YOSBR",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17373,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/yosbr-0.1.2.jar",
+            "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
+          }
+        },
+        {
+          "id": "com.b1n_ry:yigd:2.0.10@jar",
+          "name": "You're in Grave Danger",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 804806,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/youre-in-grave-danger-fabric-2.0.10.jar",
+            "MD5": "20c996271fa53a4100b9f3956db57dbf"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Fabric-4.0.6@jar",
+          "name": "YUNG's API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1396331,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsApi-1.20-Fabric-4.0.6.jar",
+            "MD5": "25624d7157f4b60827c4b6d06c0b8fc0"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.20-Fabric-3.0.3@jar",
+          "name": "YUNG's Better Desert Temples",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1063786,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+            "MD5": "7dd4fec6982f0946575a4caab6248060"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Fabric-4.0.4@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 944170,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+            "MD5": "8e324c6508dd74edf1e4705d90139da2"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterendisland:1.20-Fabric-2.0.6@jar",
+          "name": "YUNG's Better End Island",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 517369,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+            "MD5": "1e64398f1d2ec1ea4049de391b51683d"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.20-Fabric-2.0.5@jar",
+          "name": "YUNG's Better Jungle Temples",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 947293,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+            "MD5": "b34e5608a93b6a2aa043e4c49f36aff7"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.20-Fabric-4.0.4@jar",
+          "name": "YUNG's Better Mineshafts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 621495,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+            "MD5": "88e49e369f9fd20958c87138328b8c3c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.20-Fabric-2.0.6@jar",
+          "name": "YUNG's Better Nether Fortresses",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 760974,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+            "MD5": "aefeee128bbae518186bd3d73c59c74a"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.20-Fabric-3.0.4@jar",
+          "name": "YUNG's Better Ocean Monuments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1165832,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+            "MD5": "06c32808f70eaa9f41bcc01c09509229"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.20-Fabric-3.0.3@jar",
+          "name": "YUNG's Better Witch Huts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 307196,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+            "MD5": "afa25b703d976cde3d62c8f8d8a980a0"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsbridges:1.20-Fabric-4.0.3@jar",
+          "name": "YUNG's Bridges",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 266481,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsBridges-1.20-Fabric-4.0.3.jar",
+            "MD5": "3f195c1585696c0f0cb9d3e4507b1fb2"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsextras:1.20-Fabric-4.0.3@jar",
+          "name": "YUNG's Extras",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 342639,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/YungsExtras-1.20-Fabric-4.0.3.jar",
+            "MD5": "ed7d061debff5354386c203e945b2531"
+          }
+        },
+        {
+          "id": "com.natamus:zombiehorsespawn:5.1@jar",
+          "name": "Zombie Horse Spawn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 34217,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/zombiehorsespawn-1.20.1-5.1.jar",
+            "MD5": "a946c62cd5a0f9d658367e5e0ccebadb"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.14.2+1.20.1@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 807877,
+            "url": "https://raw.githubusercontent.com/roawwx/roawx-distro/refs/heads/main/servers/roawx-1.20.1/fabricmods/required/Zoomify-2.14.2+1.20.1.jar",
+            "MD5": "57d42c12e06bf4c8bbdd3f2d14a786ba"
           }
         },
         {
