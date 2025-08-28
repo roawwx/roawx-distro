@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Roawx Launcher Updates</title>
+    <link>https://example.com/launcher</link>
+    <description>News and updates for the RoaWX Minecraft Launcher</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Aug 2025 12:00:00 +0200</lastBuildDate>
+
+    <item>
+      <title>New Server Added: Jenifer's Server</title>
+      <description><![CDATA[
+        Jenifer's server has been added to the RoaWX Launcher.  
+        You can now join directly from the launcher.
+      ]]></description>
+      <pubDate>Thu, 28 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>roawx-update-jenifers-server</guid>
+    </item>
+
+  </channel>
+</rss>
