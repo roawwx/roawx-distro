@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RoaWX Launcher Updates</title>
-    <!-- channel link is required by spec; using a non-resolving placeholder domain -->
-    <link>https://example.invalid/launcher</link>
-    <description>Announcements for the RoaWX Minecraft Launcher</description>
-    <language>en</language>
+    <title>Roawx Launcher Updates</title>
+    <description>Announcements for the Roawx Minecraft Launcher</description>
+    <language>es</language>
     <lastBuildDate>Thu, 28 Aug 2025 12:00:00 +0000</lastBuildDate>
 
     <item>
-      <title>New Server Added: Jenifer's Server</title>
+      <title>Canal de noticias esta en desarrollo todavia</title>
       <!-- No item <link> on purpose -->
-      <description><![CDATA[Jenifer's server has been added to the RoaWX Launcher. You can now join directly from the launcher.]]></description>
       <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">roawx-update-jenifers-server</guid>
+      <guid isPermaLink="false">roawx-update-server</guid>
     </item>
   </channel>
 </rss>
